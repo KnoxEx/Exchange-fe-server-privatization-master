@@ -1,0 +1,26 @@
+2022-01-11 15:42:28,584 INFO 47846 [egg:logger] init all loggers with options: {"dir":"/Users/h/partTimeJob/exchange-fe-server-privatization-master/logs/exchange-vue-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"exchange-vue-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2022-01-11 15:42:28,605 INFO 47846 [egg-multipart] stream mode enable
+2022-01-11 15:42:28,742 INFO 47846 [egg-static] starting static serve / -> /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/dist
+2022-01-11 15:42:28,745 INFO 47846 [egg-security] use methodnoallow middleware
+2022-01-11 15:42:28,746 INFO 47846 [egg-security] use noopen middleware
+2022-01-11 15:42:28,747 INFO 47846 [egg-security] use nosniff middleware
+2022-01-11 15:42:28,747 INFO 47846 [egg-security] use xssProtection middleware
+2022-01-11 15:42:28,748 INFO 47846 [egg-security] use xframe middleware
+2022-01-11 15:42:28,749 INFO 47846 [egg-security] use dta middleware
+2022-01-11 15:42:28,749 INFO 47846 [egg-security] compose 6 middlewares into one security middleware
+2022-01-11 15:42:28,760 INFO 47846 [egg:core] dump config after load, 5ms
+2022-01-11 15:42:28,769 INFO 47846 [egg-watcher:application] watcher start success
+2022-01-11 15:42:28,775 INFO 47846 [egg:core] dump config after ready, 4ms
+2022-02-28 20:21:28,048 INFO 2336 [egg:logger] init all loggers with options: {"dir":"/Users/h/partTimeJob/exchange-fe-server-privatization-master/logs/exchange-vue-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"exchange-vue-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2022-02-28 20:21:28,067 INFO 2336 [egg-multipart] stream mode enable
+2022-02-28 20:21:28,232 INFO 2336 [egg-static] starting static serve / -> /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/dist
+2022-02-28 20:21:28,234 INFO 2336 [egg-security] use methodnoallow middleware
+2022-02-28 20:21:28,236 INFO 2336 [egg-security] use noopen middleware
+2022-02-28 20:21:28,237 INFO 2336 [egg-security] use nosniff middleware
+2022-02-28 20:21:28,238 INFO 2336 [egg-security] use xssProtection middleware
+2022-02-28 20:21:28,239 INFO 2336 [egg-security] use xframe middleware
+2022-02-28 20:21:28,241 INFO 2336 [egg-security] use dta middleware
+2022-02-28 20:21:28,241 INFO 2336 [egg-security] compose 6 middlewares into one security middleware
+2022-02-28 20:21:28,254 INFO 2336 [egg:core] dump config after load, 6ms
+2022-02-28 20:21:28,268 INFO 2336 [egg-watcher:application] watcher start success
+2022-02-28 20:21:28,276 INFO 2336 [egg:core] dump config after ready, 5ms

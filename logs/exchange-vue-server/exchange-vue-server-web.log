@@ -43,8 +43,8 @@ operator: "=="
 pid: 2336
 hostname: HdeMacBook-Pro.local
 
-2022-02-28 20:23:43,790 ERROR 2336 [-/::1/-/1746ms GET /] [service.publictInfo] {"host":"https://www.knox.exchange","proxy":"","domain":"http://https://www.knox.exchange","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:43,970 ERROR 2336 [-/::1/-/1926ms GET /] [service.publictInfo] {"host":"https://www.knox.exchange","proxy":"","domain":"http://https://www.knox.exchange","message":"publicInfo报错 status非200","key":"res.status","data":404}
+2022-02-28 20:23:43,790 ERROR 2336 [-/::1/-/1746ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
+2022-02-28 20:23:43,970 ERROR 2336 [-/::1/-/1926ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
 2022-02-28 20:23:46,710 ERROR 2336 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/dist
     at Map.resolve (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
     at async ContextView.[contextView#render] (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
@@ -64,8 +64,8 @@ operator: "=="
 pid: 2336
 hostname: HdeMacBook-Pro.local
 
-2022-02-28 20:23:46,886 ERROR 2336 [-/::1/-/183ms GET /] [service.publictInfo] {"host":"https://www.knox.exchange","proxy":"","domain":"http://https://www.knox.exchange","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:47,347 ERROR 2336 [-/::1/-/644ms GET /] [service.publictInfo] {"host":"https://www.knox.exchange","proxy":"","domain":"http://https://www.knox.exchange","message":"publicInfo报错 status非200","key":"res.status","data":404}
+2022-02-28 20:23:46,886 ERROR 2336 [-/::1/-/183ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
+2022-02-28 20:23:47,347 ERROR 2336 [-/::1/-/644ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
 2022-02-28 20:23:48,157 ERROR 2336 [-/127.0.0.1/-/139874ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
 2022-02-28 20:23:53,707 ERROR 2336 [-/127.0.0.1/-/145424ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
 2022-02-28 20:23:59,240 ERROR 2336 [-/127.0.0.1/-/150956ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}

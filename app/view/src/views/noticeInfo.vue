@@ -76,11 +76,11 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/noticeInfo/noticeInfo';
-import 'BlockChain-ui-privatization/PC/common-mixin/noticeInfo/noticeInfo.styl';
-import 'BlockChain-ui-privatization/static/css/quill.core.styl';
-import 'BlockChain-ui-privatization/static/css/quill.snow.styl';
-import 'BlockChain-ui-privatization/static/css/quill.bubble.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/noticeInfo/noticeInfo';
+import 'blockchain-ui-privatization/PC/common-mixin/noticeInfo/noticeInfo.styl';
+import 'blockchain-ui-privatization/static/css/quill.core.styl';
+import 'blockchain-ui-privatization/static/css/quill.snow.styl';
+import 'blockchain-ui-privatization/static/css/quill.bubble.styl';
 
 export default {
   mixins: [mixin],

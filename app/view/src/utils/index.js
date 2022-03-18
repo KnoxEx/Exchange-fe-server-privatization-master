@@ -1,4 +1,4 @@
-import { imgMap } from 'BlockChain-ui-privatization/utils';
+import { imgMap } from 'blockchain-ui-privatization/utils';
 import imgMapObj from '@/utils/imgMap.json';
 
 const imgMapSlove = imgMap(imgMapObj[1], process.env.BASE_URL);
@@ -41,4 +41,4 @@ export {
   setCookie,
   getCookie,
   removeCookie,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';

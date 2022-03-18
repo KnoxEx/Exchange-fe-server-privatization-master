@@ -7,7 +7,7 @@
     "declarations": true
   },
   "dependencies": {
-    "BlockChain-ui-privatization": "1.4.5",
+    "blockchain-ui-privatization": "1.1.7",
     "axios": "^0.18.0",
     "babel-core": "^6.26.3",
     "babel-plugin-transform-remove-console": "^6.9.4",
@@ -95,8 +95,8 @@
     "serve": "npm run formatLocale && vue-cli-service serve",
     "build": "npm run createWebWorkerMap && vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "formatLocale": "node ./node_modules/BlockChain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/BlockChain-ui-privatization/webpack-plugin/format-locale.js",
-    "createWebWorkerMap": "node ./node_modules/BlockChain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/BlockChain-ui-privatization/webpack-plugin/format-locale.js"
+    "formatLocale": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js",
+    "createWebWorkerMap": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js"
   },
   "ci": {
     "version": "10"

@@ -48,8 +48,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/advertisingManagement/advertisingManagement';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/advertisingManagement/advertisingManagement.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/advertisingManagement/advertisingManagement';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/advertisingManagement/advertisingManagement.styl';
 
 export default {
   mixins: [mixin],

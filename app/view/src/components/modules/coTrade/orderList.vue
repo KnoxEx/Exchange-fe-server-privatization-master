@@ -71,8 +71,8 @@
     </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList.styl';
 import positionLis from './component/positionLis.vue';
 
 export default {

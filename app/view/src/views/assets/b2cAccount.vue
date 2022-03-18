@@ -59,8 +59,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount.styl';
 
 export default {
   mixins: [mixin],

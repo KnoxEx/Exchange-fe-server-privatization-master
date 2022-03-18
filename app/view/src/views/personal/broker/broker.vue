@@ -135,8 +135,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/broker/broker/broker';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/broker/broker/broker.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/broker/broker/broker';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/broker/broker/broker.styl';
 
 export default {
   mixins: [mixin],

@@ -83,11 +83,11 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/broker/view/view';
-import 'BlockChain-ui-privatization/PC/common-mixin/broker/view/view.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/broker/view/view';
+import 'blockchain-ui-privatization/PC/common-mixin/broker/view/view.styl';
 import {
   getCoinShowName,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';
 
 export default {
   mixins: [mixin],

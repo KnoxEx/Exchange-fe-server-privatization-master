@@ -154,8 +154,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/login/login';
-import 'BlockChain-ui-privatization/PC/common-mixin/login/login.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/login/login';
+import 'blockchain-ui-privatization/PC/common-mixin/login/login.styl';
 import singPassLogin from './singPassLogin.vue';
 
 export default {

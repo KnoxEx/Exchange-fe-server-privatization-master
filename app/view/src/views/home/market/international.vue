@@ -152,9 +152,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/market';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/international/international';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/market/international/international.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/market';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/international/international';
+import 'blockchain-ui-privatization/PC/common-mixin/home/market/international/international.styl';
 
 export default {
   mixins: [commonMixin, mixin],

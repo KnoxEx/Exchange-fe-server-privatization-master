@@ -89,8 +89,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank.styl';
 
 export default {
   mixins: [mixin],

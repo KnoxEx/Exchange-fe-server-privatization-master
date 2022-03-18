@@ -159,8 +159,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/krwWithdraw/krwWithdraw';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/krwWithdraw/krwWithdraw.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/krwWithdraw/krwWithdraw';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/krwWithdraw/krwWithdraw.styl';
 
 export default {
   mixins: [mixin],

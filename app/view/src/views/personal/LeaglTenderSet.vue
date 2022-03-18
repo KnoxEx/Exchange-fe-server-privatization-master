@@ -200,8 +200,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/LeaglTenderSet/LeaglTenderSet';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/LeaglTenderSet/LeaglTenderSet.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/LeaglTenderSet/LeaglTenderSet';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/LeaglTenderSet/LeaglTenderSet.styl';
 
 export default {
   mixins: [mixin],

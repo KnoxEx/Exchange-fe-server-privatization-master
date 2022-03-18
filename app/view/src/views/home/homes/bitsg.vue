@@ -37,9 +37,9 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/home';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/bitsg/bitsg.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/bitsg/bitsg.styl';
 import SwiperVue from '../swiper/bitsg.vue';
 import Market from '../market/bitsg.vue';
 // import Recommend from '../recommend/international.vue';

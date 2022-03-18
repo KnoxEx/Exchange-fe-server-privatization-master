@@ -208,7 +208,7 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/otcTrade/otcTrade';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcTrade/otcTrade';
 
 export default {
   mixins: [mixin],

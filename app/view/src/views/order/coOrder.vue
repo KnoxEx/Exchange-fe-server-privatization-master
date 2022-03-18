@@ -135,8 +135,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/order/coOrder/coOrder';
-import 'BlockChain-ui-privatization/PC/common-mixin/order/coOrder/coOrder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder';
+import 'blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder.styl';
 
 export default {
   mixins: [mixin],

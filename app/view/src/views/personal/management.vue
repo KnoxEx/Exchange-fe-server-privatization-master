@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/management/management';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/management/management';
 import krwManagement from './krwManagement.vue';
 import UserManagement from './UserManagement.vue';
 

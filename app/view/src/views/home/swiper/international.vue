@@ -35,8 +35,8 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/swiper/swiper';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/swiper/swiper.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper';
+import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper.styl';
 
 
 export default {

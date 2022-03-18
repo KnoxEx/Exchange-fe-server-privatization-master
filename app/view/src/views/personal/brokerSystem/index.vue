@@ -48,8 +48,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/index/index';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/index/index.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/index/index';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/index/index.styl';
 import overview from './overview.vue';
 import Commission from './commission.vue';
 import Lower from './lower.vue';

@@ -134,8 +134,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/BindGoogle/BindGoogle';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/BindGoogle/BindGoogle.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/BindGoogle/BindGoogle';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/BindGoogle/BindGoogle.styl';
 
 export default {
   mixins: [mixin],

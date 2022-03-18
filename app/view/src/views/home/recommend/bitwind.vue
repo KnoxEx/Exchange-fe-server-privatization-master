@@ -20,9 +20,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/recommend';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/bitwind/bitwind';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/bitwind/bitwind.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/bitwind/bitwind';
+import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/bitwind/bitwind.styl';
 
 
 export default {

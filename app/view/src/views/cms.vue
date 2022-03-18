@@ -27,8 +27,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/cms/cms';
-import 'BlockChain-ui-privatization/PC/common-mixin/cms/cms.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/cms/cms';
+import 'blockchain-ui-privatization/PC/common-mixin/cms/cms.styl';
 
 export default {
   mixins: [mixin],

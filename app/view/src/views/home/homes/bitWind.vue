@@ -11,10 +11,10 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/home';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/bitWind/bitWind';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/bitWind/bitWind.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/bitWind/bitWind';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/bitWind/bitWind.styl';
 import Custom from '../custom/bitWind.vue';
 import Recommend from '../recommend/bitwind.vue';
 

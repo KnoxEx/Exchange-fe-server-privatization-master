@@ -104,8 +104,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/otcAccount/otcAccount';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/otcAccount/otcAccount.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/otcAccount/otcAccount';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/otcAccount/otcAccount.styl';
 
 export default {
   mixins: [mixin],

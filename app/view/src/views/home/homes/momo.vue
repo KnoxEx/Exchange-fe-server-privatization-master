@@ -38,9 +38,9 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/home';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/momo/momo.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/momo/momo.styl';
 import SwiperVue from '../swiper/momo.vue';
 import Market from '../market/momo.vue';
 import Recommend from '../recommend/momo.vue';

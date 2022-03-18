@@ -275,8 +275,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/stopOrder/stopOrder';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/stopOrder/stopOrder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/stopOrder/stopOrder';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/stopOrder/stopOrder.styl';
 import formInput from './form-input.vue';
 // import formSelect from './form-select.vue';
 

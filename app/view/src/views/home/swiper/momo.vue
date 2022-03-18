@@ -49,8 +49,8 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/swiper/momo/momo';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/swiper/momo/momo.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/swiper/momo/momo';
+import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/momo/momo.styl';
 
 
 export default {

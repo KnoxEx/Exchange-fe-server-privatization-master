@@ -66,8 +66,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/order/leverageOrder/leverageOrder';
-import 'BlockChain-ui-privatization/PC/common-mixin/order/leverageOrder/leverageOrder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/order/leverageOrder/leverageOrder';
+import 'blockchain-ui-privatization/PC/common-mixin/order/leverageOrder/leverageOrder.styl';
 
 export default {
   mixins: [mixin],

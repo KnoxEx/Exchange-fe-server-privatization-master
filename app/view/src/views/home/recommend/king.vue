@@ -45,10 +45,10 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/recommend';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/king/king';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/king/king';
 import Charts from '../charts/china.vue';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/king/king.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/king/king.styl';
 
 export default {
   components: {

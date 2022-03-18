@@ -49,9 +49,9 @@
   </div>
 </template>
 <script>
-import 'BlockChain-ui-privatization/PC/common-mixin/contract/index/index.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/contract/index/index.styl';
 
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/contract/index/index';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/contract/index/index';
 
 import currentSymbol from '@/components/modules/spotTrade/contract/currentSymbol.vue';
 import market from '@/components/modules/spotTrade/contract/market.vue';

@@ -188,7 +188,7 @@
       "declarations": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "BlockChain-ui-privatization": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js",
+      "blockchain-ui-privatization": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js",
       "axios": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js",
       "babel-core": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js",
       "babel-plugin-transform-remove-console": "/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg/config/config.default.js",

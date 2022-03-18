@@ -13,9 +13,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/pages/pages';
-import mixin from 'BlockChain-ui-privatization/PC/pages/co-home/co-home';
-import 'BlockChain-ui-privatization/PC/pages/co-home/co-home.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/pages/pages';
+import mixin from 'blockchain-ui-privatization/PC/pages/co-home/co-home';
+import 'blockchain-ui-privatization/PC/pages/co-home/co-home.styl';
 
 export default {
   mixins: [commonMixin, mixin],

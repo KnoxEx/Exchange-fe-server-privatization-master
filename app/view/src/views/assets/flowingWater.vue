@@ -93,11 +93,11 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater.styl';
 import {
   formatTime,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';
 import innovations from './innovations.vue';
 
 export default {

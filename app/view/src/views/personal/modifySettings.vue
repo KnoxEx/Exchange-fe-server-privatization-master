@@ -85,8 +85,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/modifySettings/modifySettings';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/modifySettings/modifySettings.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/modifySettings/modifySettings';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/modifySettings/modifySettings.styl';
 
 export default {
   mixins: [mixin],

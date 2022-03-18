@@ -76,8 +76,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/singpassLogin/singpassLogin';
-import 'BlockChain-ui-privatization/PC/common-mixin/singpassLogin/singpassLogin.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/singpassLogin/singpassLogin';
+import 'blockchain-ui-privatization/PC/common-mixin/singpassLogin/singpassLogin.styl';
 
 
 export default {

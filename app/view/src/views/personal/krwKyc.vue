@@ -9,8 +9,8 @@
 </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/krwKyc/krwKyc';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/krwKyc/krwKyc.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/krwKyc/krwKyc';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/krwKyc/krwKyc.styl';
 
 export default {
   mixins: [mixin],

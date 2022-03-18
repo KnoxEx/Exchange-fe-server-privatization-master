@@ -101,8 +101,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/ChangePassword/ChangePassword';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/ChangePassword/ChangePassword.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/ChangePassword/ChangePassword';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/ChangePassword/ChangePassword.styl';
 
 export default {
   mixins: [mixin],

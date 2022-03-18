@@ -141,9 +141,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/market';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/momo/momo';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/market/momo/momo.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/market';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/momo/momo';
+import 'blockchain-ui-privatization/PC/common-mixin/home/market/momo/momo.styl';
 
 
 export default {

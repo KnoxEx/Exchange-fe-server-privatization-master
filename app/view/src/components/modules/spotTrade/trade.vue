@@ -103,9 +103,9 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
 
-import 'BlockChain-ui-privatization/PC/common-mixin/trade/index/index.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/trade/index/index.styl';
 
 import currentSymbol from '@/components/modules/spotTrade/trade/currentSymbol.vue';
 import exchangeMarket from '@/components/modules/spotTrade/trade/exchangeMarket.vue';

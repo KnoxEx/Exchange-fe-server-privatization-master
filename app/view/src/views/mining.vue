@@ -257,8 +257,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/mining/mining';
-import 'BlockChain-ui-privatization/PC/common-mixin/mining/mining.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/mining/mining';
+import 'blockchain-ui-privatization/PC/common-mixin/mining/mining.styl';
 
 export default {
   mixins: [mixin],

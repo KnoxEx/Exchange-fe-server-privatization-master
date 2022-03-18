@@ -323,8 +323,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/freeStaking/detail/detail';
-import 'BlockChain-ui-privatization/PC/common-mixin/freeStaking/detail/detail.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/freeStaking/detail/detail';
+import 'blockchain-ui-privatization/PC/common-mixin/freeStaking/detail/detail.styl';
 import Popup from './popup.vue';
 
 export default {

@@ -96,8 +96,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/bibaoAccount/bibaoAccount';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/bibaoAccount/bibaoAccount.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/bibaoAccount/bibaoAccount';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/bibaoAccount/bibaoAccount.styl';
 
 export default {
   mixins: [mixin],

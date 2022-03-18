@@ -74,9 +74,9 @@
   </div>
 </template>
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/lever/index/index';
-import 'BlockChain-ui-privatization/PC/common-mixin/lever/index/index.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/lever/index/index';
+import 'blockchain-ui-privatization/PC/common-mixin/lever/index/index.styl';
 // 下单交易
 import tradeForm from '@/components/modules/trade/tradeForm/lever-tradeForm.vue';
 import Market from '@/components/modules/trade/market/index.vue';

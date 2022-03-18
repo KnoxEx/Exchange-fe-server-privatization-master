@@ -8,7 +8,7 @@
     className="search-input spot-search"/>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/market/market';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/market/market';
 export default {
   mixins: [mixin],
 }

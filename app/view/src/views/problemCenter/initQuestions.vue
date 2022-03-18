@@ -59,8 +59,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/initQuestions/initQuestions';
-import 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/initQuestions/initQuestions.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/problemCenter/initQuestions/initQuestions';
+import 'blockchain-ui-privatization/PC/common-mixin/problemCenter/initQuestions/initQuestions.styl';
 
 export default {
   mixins: [mixin],

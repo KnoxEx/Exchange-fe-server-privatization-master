@@ -5,7 +5,7 @@ import {
   personalRouter,
   otcRouter,
   fiatdealRouter,
-} from 'BlockChain-ui-privatization/PC/router';
+} from 'blockchain-ui-privatization/PC/router';
 import { setCookie, routerEnv } from '@/utils';
 
 const originalPush = Router.prototype.push;

@@ -481,8 +481,8 @@
     </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/market/market';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/market/market.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/market/market';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/market/market.styl';
 
 export default {
   mixins: [mixin],

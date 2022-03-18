@@ -4,8 +4,8 @@
     </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/echarts/echarts';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/echarts/echarts.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/echarts/echarts';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/echarts/echarts.styl';
 
 export default {
   mixins: [mixin],

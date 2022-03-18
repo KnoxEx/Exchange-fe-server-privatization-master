@@ -114,8 +114,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/ChangePhone/ChangePhone';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/ChangePhone/ChangePhone.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/ChangePhone/ChangePhone';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/ChangePhone/ChangePhone.styl';
 
 export default {
   mixins: [mixin],

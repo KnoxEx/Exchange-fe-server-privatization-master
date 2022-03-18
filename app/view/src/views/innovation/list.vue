@@ -104,8 +104,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/innovation/list/list';
-import 'BlockChain-ui-privatization/PC/common-mixin/innovation/list/list.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/innovation/list/list';
+import 'blockchain-ui-privatization/PC/common-mixin/innovation/list/list.styl';
 
 export default {
   mixins: [mixin],

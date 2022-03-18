@@ -71,8 +71,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/newTrade/newTrade';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/newTrade/newTrade.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/newTrade/newTrade';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/newTrade/newTrade.styl';
 
 export default {
   mixins: [mixin],

@@ -116,10 +116,10 @@
 </template>
 
 <script>
-import commmonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/home';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/home/japanese/japanese';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/home/japanese/japanese.styl';
+import commmonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/japanese/japanese';
+import 'blockchain-ui-privatization/PC/common-mixin/home/home/japanese/japanese.styl';
 import Custom from '../custom/japanese.vue';
 
 export default {

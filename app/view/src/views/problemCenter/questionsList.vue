@@ -23,8 +23,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/questionsList/questionsList';
-import 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/questionsList/questionsList.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/problemCenter/questionsList/questionsList';
+import 'blockchain-ui-privatization/PC/common-mixin/problemCenter/questionsList/questionsList.styl';
 
 export default {
   mixins: [mixin],

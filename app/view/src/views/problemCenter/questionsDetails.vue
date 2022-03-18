@@ -78,8 +78,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/questionsDetails/questionsDetails';
-import 'BlockChain-ui-privatization/PC/common-mixin/problemCenter/questionsDetails/questionsDetails.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/problemCenter/questionsDetails/questionsDetails';
+import 'blockchain-ui-privatization/PC/common-mixin/problemCenter/questionsDetails/questionsDetails.styl';
 
 export default {
   mixins: [mixin],

@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 import axios from '@/api/http/axios';
-import { getComplexType } from 'BlockChain-ui-privatization//utils';
+import { getComplexType } from 'blockchain-ui-privatization//utils';
 import {
   baseData,
   url,
@@ -13,7 +13,7 @@ import {
   fiatdeal,
   trade,
   future,
-} from 'BlockChain-ui-privatization/PC/vuex';
+} from 'blockchain-ui-privatization/PC/vuex';
 
 assets.actions.assetsExchangeData = function assetsExchangeData({ commit }, payLoad) {
   let auto = false;

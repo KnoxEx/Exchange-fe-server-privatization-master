@@ -112,8 +112,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/SetUp/SetUp';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/SetUp/SetUp.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/SetUp/SetUp';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/SetUp/SetUp.styl';
 import Payment1 from './payments/payment1.vue'; // 支付宝，微信
 import Payment2 from './payments/payment2.vue'; // 银行卡
 import Payment3 from './payments/payment3.vue'; // paypal

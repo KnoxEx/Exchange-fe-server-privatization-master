@@ -177,8 +177,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/assets/assets';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/assets/assets.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/assets/assets';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/assets/assets.styl';
 import commonTransfer from './component/transfer.vue';
 import assetsChart from './echarts/assetsChart.vue';
 

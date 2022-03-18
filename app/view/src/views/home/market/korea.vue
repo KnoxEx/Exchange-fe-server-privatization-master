@@ -52,9 +52,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/market';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/market/korea/korea';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/market/korea/korea.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/market';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/korea/korea';
+import 'blockchain-ui-privatization/PC/common-mixin/home/market/korea/korea.styl';
 
 export default {
   mixins: [commonMixin, mixin],

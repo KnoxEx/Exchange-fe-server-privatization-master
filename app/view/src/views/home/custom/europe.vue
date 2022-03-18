@@ -70,10 +70,10 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/custom/custom';
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/home/custom/europe/europe';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/custom/europe/europe.styl';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/europe/europe';
+import 'blockchain-ui-privatization/PC/common-mixin/home/custom/europe/europe.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
 
 export default {
   mixins: [commonMixin, mixin],

@@ -101,8 +101,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/message/message';
-import 'BlockChain-ui-privatization/PC/common-mixin/message/message.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/message/message';
+import 'blockchain-ui-privatization/PC/common-mixin/message/message.styl';
 
 export default {
   mixins: [mixin],

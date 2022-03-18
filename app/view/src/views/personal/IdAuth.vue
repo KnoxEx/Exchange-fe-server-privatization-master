@@ -322,8 +322,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/IdAuth/IdAuth';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/IdAuth/IdAuth.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/IdAuth/IdAuth';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/IdAuth/IdAuth.styl';
 
 export default {
   mixins: [mixin],

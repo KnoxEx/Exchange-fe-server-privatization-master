@@ -256,8 +256,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/positionLis/positionLis';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/positionLis/positionLis.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/positionLis/positionLis';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/positionLis/positionLis.styl';
 import setMarginCoin from './setMarginCoin.vue';
 import forcedReminder from './forced-reminder.vue';
 import stopOrder from './stopOrder.vue';

@@ -203,7 +203,7 @@ import {
   formatTime,
   fixD,
   getCoinShowName,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';
 import GridTabel from './GridTabel.vue';
 
 export default {

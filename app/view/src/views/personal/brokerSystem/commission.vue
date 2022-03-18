@@ -103,8 +103,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission.styl';
 
 export default {
   mixins: [mixin],

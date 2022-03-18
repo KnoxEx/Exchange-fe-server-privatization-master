@@ -125,8 +125,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
-import 'BlockChain-ui-privatization/PC/common-mixin/trade/index/index.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/index/mixin';
+import 'blockchain-ui-privatization/PC/common-mixin/trade/index/index.styl';
 import Market from '@/components/modules/trade/market/index.vue';
 // 当前币对信息
 import currentSymbol from '@/components/modules/trade/currentSymbol/index.vue';

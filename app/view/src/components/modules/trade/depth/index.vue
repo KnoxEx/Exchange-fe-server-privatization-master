@@ -136,9 +136,9 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/depath/index';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/depath/index/index.styl';
-import { myStorage } from 'BlockChain-ui-privatization/utils';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/index';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/index/index.styl';
+import { myStorage } from 'blockchain-ui-privatization/utils';
 import tableList from '@/components/modules/trade/tableList/index.vue';
 // 实时成交
 import newTrade from '@/components/modules/trade/newTrade/index.vue';

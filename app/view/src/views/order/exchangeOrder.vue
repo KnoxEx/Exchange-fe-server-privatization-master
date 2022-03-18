@@ -66,8 +66,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/order/exchangeOrder/exchangeOrder';
-import 'BlockChain-ui-privatization/PC/common-mixin/order/exchangeOrder/exchangeOrder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/order/exchangeOrder/exchangeOrder';
+import 'blockchain-ui-privatization/PC/common-mixin/order/exchangeOrder/exchangeOrder.styl';
 
 export default {
   mixins: [mixin],

@@ -64,8 +64,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/newTrade/newTrade';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/newTrade/newTrade.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/newTrade/newTrade';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/newTrade/newTrade.styl';
 
 export default {
   mixins: [mixin],

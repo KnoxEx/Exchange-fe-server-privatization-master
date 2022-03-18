@@ -64,8 +64,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/payments/payments1/payments1';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/payments/payments1/payments1.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments1/payments1';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments1/payments1.styl';
 
 export default {
   mixins: [mixin],

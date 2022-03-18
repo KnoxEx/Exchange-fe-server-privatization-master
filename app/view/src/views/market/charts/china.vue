@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/market/charts/charts';
-import 'BlockChain-ui-privatization/PC/common-mixin/market/charts/charts.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/market/charts/charts';
+import 'blockchain-ui-privatization/PC/common-mixin/market/charts/charts.styl';
 
 export default {
   mixins: [mixin],

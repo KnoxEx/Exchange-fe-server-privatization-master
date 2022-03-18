@@ -25,8 +25,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/openFutures/openFutures';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/openFutures/openFutures.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/openFutures/openFutures';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/openFutures/openFutures.styl';
 
 export default {
   mixins: [mixin],

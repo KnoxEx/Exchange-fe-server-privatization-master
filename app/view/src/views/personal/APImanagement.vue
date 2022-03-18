@@ -248,8 +248,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/APImanagement/APImanagement';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/APImanagement/APImanagement.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/APImanagement/APImanagement';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/APImanagement/APImanagement.styl';
 import ModifyApi from './modifyApi.vue';
 
 export default {

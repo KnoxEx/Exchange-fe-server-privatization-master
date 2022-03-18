@@ -132,10 +132,10 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/recharge/recharge';
-import mainChainMixins from 'BlockChain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/recharge/recharge';
+import mainChainMixins from 'blockchain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
 import mainChain from './mainChain.vue';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/recharge/recharge.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/recharge/recharge.styl';
 
 export default {
   mixins: [mixin, mainChainMixins],

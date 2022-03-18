@@ -466,8 +466,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/krwManagement/krwManagement';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/krwManagement/krwManagement.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/krwManagement/krwManagement';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/krwManagement/krwManagement.styl';
 
 export default {
   mixins: [mixin],

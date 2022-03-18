@@ -78,8 +78,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/overview/overview';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/brokerSystem/overview/overview.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/overview/overview';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/overview/overview.styl';
 import overviewChars from './overviewChars.vue';
 
 export default {

@@ -147,8 +147,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/leverageToLoan/leverageToLoan';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/leverageToLoan/leverageToLoan.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/leverageToLoan/leverageToLoan';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/leverageToLoan/leverageToLoan.styl';
 import leverageTransfer from './leverageTransfer.vue';
 import leverageRepayment from './leverageRepayment.vue';
 

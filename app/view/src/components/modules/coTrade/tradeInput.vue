@@ -31,8 +31,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/tradeInput/tradeInput';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/tradeInput/tradeInput.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeInput/tradeInput';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeInput/tradeInput.styl';
 
 export default {
   mixins: [mixin],

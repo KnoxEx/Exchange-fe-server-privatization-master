@@ -45,8 +45,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/krwAccount/krwAccount';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/krwAccount/krwAccount.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/krwAccount/krwAccount';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/krwAccount/krwAccount.styl';
 
 
 export default {

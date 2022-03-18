@@ -751,8 +751,8 @@
   </header>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/header/header';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/header/header.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/header/header';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/header/header.styl';
 
 export default {
   mixins: [mixin],

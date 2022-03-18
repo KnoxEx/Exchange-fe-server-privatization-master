@@ -36,8 +36,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/fiatdeal/mobilityTrade/mobilityTrade';
-import 'BlockChain-ui-privatization/PC/common-mixin/fiatdeal/mobilityTrade/mobilityTrade.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/mobilityTrade/mobilityTrade';
+import 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/mobilityTrade/mobilityTrade.styl';
 
 export default {
   mixins: [mixin],

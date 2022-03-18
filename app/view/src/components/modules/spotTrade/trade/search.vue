@@ -8,7 +8,7 @@
     className="search-input spot-search"/>
 </template>
 <script>
-import mixins from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/market/market';
+import mixins from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/market/market';
 export default {
   mixins: [mixin]
 }

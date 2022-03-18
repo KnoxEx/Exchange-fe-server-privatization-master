@@ -146,8 +146,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/manageFinances/view/view';
-import 'BlockChain-ui-privatization/PC/common-mixin/manageFinances/view/view.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/manageFinances/view/view';
+import 'blockchain-ui-privatization/PC/common-mixin/manageFinances/view/view.styl';
 
 export default {
   mixins: [mixin],

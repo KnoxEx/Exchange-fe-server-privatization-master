@@ -69,8 +69,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/freeStaking/myPos/myPos';
-import 'BlockChain-ui-privatization/PC/common-mixin/freeStaking/myPos/myPos.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/freeStaking/myPos/myPos';
+import 'blockchain-ui-privatization/PC/common-mixin/freeStaking/myPos/myPos.styl';
 
 export default {
   mixins: [mixin],

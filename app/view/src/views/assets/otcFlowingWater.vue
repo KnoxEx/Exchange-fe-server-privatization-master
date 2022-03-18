@@ -36,8 +36,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/otcFlowingWater/otcFlowingWater';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/otcFlowingWater/otcFlowingWater.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/otcFlowingWater/otcFlowingWater';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/otcFlowingWater/otcFlowingWater.styl';
 
 export default {
   mixins: [mixin],

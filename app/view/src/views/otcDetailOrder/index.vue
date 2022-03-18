@@ -281,8 +281,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/otcDetailOrder/index/index';
-import 'BlockChain-ui-privatization/PC/common-mixin/otcDetailOrder/index/index.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/index/index';
+import 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/index/index.styl';
 import Title from './title.vue';
 import Message from './message.vue';
 import Pays from './pays.vue';

@@ -37,8 +37,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/assets/coAccount/coAccount';
-import 'BlockChain-ui-privatization/PC/common-mixin/assets/coAccount/coAccount.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/coAccount/coAccount';
+import 'blockchain-ui-privatization/PC/common-mixin/assets/coAccount/coAccount.styl';
 // 开通合约交易弹框
 import openFutures from '@/components/modules/coTrade/component/openFutures.vue';
 // 划转

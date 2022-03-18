@@ -13,8 +13,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/CompanyApplication/ApplicationPolicy/ApplicationPolicy';
-import 'BlockChain-ui-privatization/PC/common-mixin/CompanyApplication/ApplicationPolicy/ApplicationPolicy.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/ApplicationPolicy/ApplicationPolicy';
+import 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/ApplicationPolicy/ApplicationPolicy.styl';
 
 export default {
   mixins: [mixin],

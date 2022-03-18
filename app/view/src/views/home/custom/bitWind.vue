@@ -314,5 +314,5 @@ const bitWindHomeFuncton = function bitWindHome() {
 window.bitWindHomeFuncton = bitWindHomeFuncton;
 </script>
 <style
- src="BlockChain-ui-privatization/PC/common-mixin/home/custom/bitWind/bitWind.styl" lang="stylus">
+ src="blockchain-ui-privatization/PC/common-mixin/home/custom/bitWind/bitWind.styl" lang="stylus">
 </style>

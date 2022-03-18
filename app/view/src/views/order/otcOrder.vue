@@ -44,8 +44,8 @@
   </section>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/order/otcOrder/otcOrder';
-import 'BlockChain-ui-privatization/PC/common-mixin/order/otcOrder/otcOrder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/order/otcOrder/otcOrder';
+import 'blockchain-ui-privatization/PC/common-mixin/order/otcOrder/otcOrder.styl';
 
 export default {
   mixins: [mixin],

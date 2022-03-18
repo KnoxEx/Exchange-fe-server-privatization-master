@@ -53,8 +53,8 @@
 
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList';
-import 'BlockChain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList';
+import 'blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList.styl';
 
 export default {
   mixins: [mixin],

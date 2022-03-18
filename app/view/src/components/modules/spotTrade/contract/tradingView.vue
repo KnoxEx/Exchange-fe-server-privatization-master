@@ -33,8 +33,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView.styl';
 import Echarts from '@/components/modules/coTrade/echarts/index.vue';
 import tabs from '@/components/modules/spotTrade/tab.vue';
 import timeSelect from '../select.vue'

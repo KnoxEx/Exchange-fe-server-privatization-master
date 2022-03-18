@@ -52,8 +52,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/forcedReminder/forcedReminder';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/forcedReminder/forcedReminder.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/forcedReminder/forcedReminder';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/forcedReminder/forcedReminder.styl';
 
 export default {
   mixins: [mixin],

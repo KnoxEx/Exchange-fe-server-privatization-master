@@ -71,8 +71,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/appDownload/appDownload';
-import 'BlockChain-ui-privatization/PC/common-mixin/appDownload/appDownload.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/appDownload/appDownload';
+import 'blockchain-ui-privatization/PC/common-mixin/appDownload/appDownload.styl';
 
 export default {
   mixins: [mixin],

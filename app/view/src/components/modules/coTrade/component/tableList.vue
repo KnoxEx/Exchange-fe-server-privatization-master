@@ -96,8 +96,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/tableList/tableList';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/tableList/tableList.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/tableList/tableList';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/tableList/tableList.styl';
 
 export default {
   mixins: [mixin],

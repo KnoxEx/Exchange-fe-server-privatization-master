@@ -136,11 +136,11 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/tradingView/tradingView';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/tradingView/tradingView.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradingView/tradingView';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradingView/tradingView.styl';
 import {
   myStorage, getCookie,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';
 import Echarts from '../echarts/index.vue';
 // import EchartsKline from '../echartsKline/index.vue';
 

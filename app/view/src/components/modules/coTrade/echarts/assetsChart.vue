@@ -4,8 +4,8 @@
     </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/echarts/assetsChart';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/echarts/assetsChart.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/echarts/assetsChart';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/echarts/assetsChart.styl';
 
 export default {
   mixins: [mixin],

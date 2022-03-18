@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 import axios from '@/api/http/axios';
-import { getComplexType } from 'BlockChain-ui-privatization//utils';
+import { getComplexType } from 'blockchain-ui-privatization//utils';
 import {
   baseData,
   url,
@@ -12,7 +12,7 @@ import {
   tradeOrderList,
   fiatdeal,
   trade,
-} from 'BlockChain-ui-privatization/PC/vuex';
+} from 'blockchain-ui-privatization/PC/vuex';
 
 // 网格
 tradeOrderList.actions.getOrderListData = function getOrderListData({ commit }, data) {

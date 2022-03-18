@@ -56,8 +56,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/echartsKline/echartsKline';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/coTrade/components/echartsKline/echartsKline.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/echartsKline/echartsKline';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/echartsKline/echartsKline.styl';
 
 export default {
   mixins: [mixin],

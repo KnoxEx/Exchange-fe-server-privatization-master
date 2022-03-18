@@ -121,8 +121,8 @@
   </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/currentSymbol/index/index';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/currentSymbol/index/index.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/currentSymbol/index/index';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/currentSymbol/index/index.styl';
 import currencyNotes from './currencyNotes.vue';
 
 export default {

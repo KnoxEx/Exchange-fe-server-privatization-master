@@ -1,6 +1,6 @@
 const { evnConfig, seoHtml } = require('./app/view/pathConfig');
 //const InlineHtmlPlugin = require('./app/view/webpack-plugins/inline-html');
-const InlineHtmlPlugin = require('BlockChain-ui-privatization/webpack-plugin/inline-html.js');
+const InlineHtmlPlugin = require('blockchain-ui-privatization/webpack-plugin/inline-html.js');
 const path = require('path');
 let staticDomain = '';
 try{
@@ -27,7 +27,7 @@ const htlmOptions = {
 };
 module.exports = {
     transpileDependencies: [
-      'BlockChain-ui-privatization',
+      'blockchain-ui-privatization',
       'vue-script2',
     ],
     productionSourceMap: false,

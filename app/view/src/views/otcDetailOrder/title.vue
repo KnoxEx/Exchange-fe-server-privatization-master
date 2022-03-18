@@ -112,8 +112,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/otcDetailOrder/title/title';
-import 'BlockChain-ui-privatization/PC/common-mixin/otcDetailOrder/title/title.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/title/title';
+import 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/title/title.styl';
 
 export default {
   mixins: [mixin],

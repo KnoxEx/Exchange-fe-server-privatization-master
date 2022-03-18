@@ -80,12 +80,12 @@
     </div>
 </template>
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList';
 import {
   getCoinShowName, formatTime, fixD, myStorage,
-} from 'BlockChain-ui-privatization/utils';
+} from 'blockchain-ui-privatization/utils';
 import GridDialog from '@/components/modules/trade/gridDialog/GridDialog.vue';
-import 'BlockChain-ui-privatization/PC/common-mixin/modules/trade/orderList/tradeOrderList.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/tradeOrderList.styl';
 import tabs from '../tab.vue'
 
 

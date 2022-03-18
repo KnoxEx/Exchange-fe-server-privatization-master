@@ -27,9 +27,9 @@
 </template>
 
 <script>
-import commonMixin from 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/momo/momo';
+import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/momo/momo';
 import Charts from '../charts/china.vue';
-import 'BlockChain-ui-privatization/PC/common-mixin/home/recommend/momo/momo.styl';
+import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/momo/momo.styl';
 
 
 export default {

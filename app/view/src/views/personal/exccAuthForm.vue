@@ -380,8 +380,8 @@
 </template>
 
 <script>
-import mixin from 'BlockChain-ui-privatization/PC/common-mixin/personal/exccAuthForm/exccAuthForm';
-import 'BlockChain-ui-privatization/PC/common-mixin/personal/exccAuthForm/exccAuthForm.styl';
+import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/exccAuthForm/exccAuthForm';
+import 'blockchain-ui-privatization/PC/common-mixin/personal/exccAuthForm/exccAuthForm.styl';
 
 export default {
   mixins: [mixin],

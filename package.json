@@ -11,7 +11,7 @@
     "babel-core": "^6.26.3",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "babel-plugin-transform-remove-strict-mode": "0.0.2",
-    "@knoxexchange/@knoxexchange/blockchain-ui-privatization": "1.8.0",
+    "@knoxexchange/blockchain-ui-privatization": "1.8.0",
     "bowser": "*",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",

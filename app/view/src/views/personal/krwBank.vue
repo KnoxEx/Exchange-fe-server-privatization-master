@@ -89,8 +89,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/krwBank/krwBank.styl';
 
 export default {
   mixins: [mixin],

@@ -32,8 +32,8 @@
 </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/message/message';
-import 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/message/message.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/message/message';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/message/message.styl';
 
 export default {
   mixins: [mixin],

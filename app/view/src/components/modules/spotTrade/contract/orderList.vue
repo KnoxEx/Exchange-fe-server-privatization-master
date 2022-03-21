@@ -62,8 +62,8 @@
     </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/orderList/orderList.styl';
 import positionLis from '@/components/modules/coTrade/component/positionLis.vue';
 import tabs from '../tab.vue'
 

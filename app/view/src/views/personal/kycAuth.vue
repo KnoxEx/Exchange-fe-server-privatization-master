@@ -30,8 +30,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/kycAuth/kycAuth';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/kycAuth/kycAuth.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/kycAuth/kycAuth';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/kycAuth/kycAuth.styl';
 import kycAuthselect from './kycAuthselect.vue';
 
 export default {

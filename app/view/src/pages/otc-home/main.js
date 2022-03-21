@@ -1,6 +1,6 @@
 
 import Vue from 'vue';
-import BlockChainUI from 'blockchain-ui-privatization/PC/components';
+import BlockChainUI from '@knoxexchange/blockchain-ui-privatization/PC/components';
 import vuescroll from 'vuescroll/dist/vuescroll-native';
 import { colorMap, getCoinShowName } from '@/utils';
 import bus from '@/api/bus';
@@ -9,7 +9,7 @@ import App from './App.vue';
 import router from '../../router/otc-router';
 import store from '../../vuex/otc-index';
 import axios from '../../api/http/axios';
-import 'blockchain-ui-privatization/static/css/common.styl';
+import '@knoxexchange/blockchain-ui-privatization/static/css/common.styl';
 
 Vue.use(vuescroll, {
   ops: {

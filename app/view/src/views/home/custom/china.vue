@@ -102,7 +102,7 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
 
 export default {
   mixins: [commonMixin],

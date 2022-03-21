@@ -29,8 +29,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/problemCenter/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/problemCenter/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/problemCenter/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/problemCenter/index/index.styl';
 
 export default {
   mixins: [mixin],

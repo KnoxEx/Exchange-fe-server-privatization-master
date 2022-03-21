@@ -77,8 +77,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/invite/invite';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/invite/invite.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/invite/invite';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/invite/invite.styl';
 
 export default {
   mixins: [mixin],

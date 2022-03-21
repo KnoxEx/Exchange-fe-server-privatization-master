@@ -356,8 +356,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/lever-tradeForm/lever-tradeForm';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/lever-tradeForm/lever-tradeForm.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/lever-tradeForm/lever-tradeForm';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/lever-tradeForm/lever-tradeForm.styl';
 import leverageTransfer from '@/views/assets/leverageTransfer.vue';
 import tradeInput from './tradeInput.vue';
 

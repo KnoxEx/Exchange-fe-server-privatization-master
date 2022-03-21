@@ -104,8 +104,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/InviteCodeManagement/InviteCodeManagement';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/InviteCodeManagement/InviteCodeManagement.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/InviteCodeManagement/InviteCodeManagement';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/InviteCodeManagement/InviteCodeManagement.styl';
 
 export default {
   mixins: [mixin],

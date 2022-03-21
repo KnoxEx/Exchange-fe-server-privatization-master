@@ -111,8 +111,8 @@
 </template>
 <script>
 import { directive as clickOutside } from 'v-click-outside-x';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/currentSymbol/currentSymbol';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/currentSymbol/currentSymbol.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/currentSymbol/currentSymbol';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/currentSymbol/currentSymbol.styl';
 // 24小时行情
 import Market from './market.vue';
 

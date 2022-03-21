@@ -170,8 +170,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/chat/chat';
-import 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/chat/chat.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/chat/chat';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/chat/chat.styl';
 
 export default {
   mixins: [mixin],

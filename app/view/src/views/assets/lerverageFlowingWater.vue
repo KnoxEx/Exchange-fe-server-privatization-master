@@ -53,8 +53,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/lerverageFlowingWater/lerverageFlowingWater';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/lerverageFlowingWater/lerverageFlowingWater.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/lerverageFlowingWater/lerverageFlowingWater';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/lerverageFlowingWater/lerverageFlowingWater.styl';
 import leverageRepayment from './leverageRepayment.vue';
 
 

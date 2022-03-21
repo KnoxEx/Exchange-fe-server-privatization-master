@@ -242,8 +242,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/register/register';
-import 'blockchain-ui-privatization/PC/common-mixin/register/register.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/register/register';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/register/register.styl';
 // 滑动验证
 export default {
   mixins: [mixin],

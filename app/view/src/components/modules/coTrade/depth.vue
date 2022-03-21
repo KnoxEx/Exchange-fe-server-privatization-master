@@ -123,8 +123,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depth/depth';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depth/depth.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depth/depth';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depth/depth.styl';
 import tableList from './component/tableList.vue';
 // 实时成交
 import newTrade from './newTrade.vue';

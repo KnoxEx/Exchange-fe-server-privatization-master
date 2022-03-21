@@ -103,8 +103,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/commission/commission.styl';
 
 export default {
   mixins: [mixin],

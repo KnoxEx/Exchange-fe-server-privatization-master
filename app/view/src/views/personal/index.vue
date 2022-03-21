@@ -37,8 +37,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/index/index.styl';
 
 export default {
   mixins: [mixin],

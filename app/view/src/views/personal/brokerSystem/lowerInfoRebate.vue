@@ -104,8 +104,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfoRebate/lowerInfoRebate';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfoRebate/lowerInfoRebate.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfoRebate/lowerInfoRebate';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfoRebate/lowerInfoRebate.styl';
 
 export default {
   mixins: [mixin],

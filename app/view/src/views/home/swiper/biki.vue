@@ -45,8 +45,8 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper';
-import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/biki/biki.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/biki/biki.styl';
 
 export default {
   mixins: [commonMixin],

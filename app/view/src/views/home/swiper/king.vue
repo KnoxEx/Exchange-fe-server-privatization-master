@@ -59,9 +59,9 @@
 </template>
 
 <script>
-import kingMixin from 'blockchain-ui-privatization/PC/common-mixin/home/swiper/king/king';
-// import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper.styl';
-import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/king/king.styl';
+import kingMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/king/king';
+// import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/swiper.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/king/king.styl';
 
 export default {
   mixins: [kingMixin],

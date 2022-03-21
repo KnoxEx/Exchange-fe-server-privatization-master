@@ -116,9 +116,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/market';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/biki/biki';
-import 'blockchain-ui-privatization/PC/common-mixin/home/market/biki/biki.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/market/market';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/market/biki/biki';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/market/biki/biki.styl';
 
 
 export default {

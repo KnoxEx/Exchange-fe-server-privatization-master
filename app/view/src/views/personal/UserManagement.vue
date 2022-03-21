@@ -376,8 +376,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/UserManagement/UserManagement';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/UserManagement/UserManagement.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/UserManagement/UserManagement';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/UserManagement/UserManagement.styl';
 import kycAuthselect from './kycAuthselect.vue';
 
 export default {

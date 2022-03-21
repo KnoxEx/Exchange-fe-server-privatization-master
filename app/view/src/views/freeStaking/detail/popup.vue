@@ -19,8 +19,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/freeStaking/popup/popup';
-import 'blockchain-ui-privatization/PC/common-mixin/freeStaking/popup/popup.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/freeStaking/popup/popup';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/freeStaking/popup/popup.styl';
 
 export default {
   mixins: [mixin],

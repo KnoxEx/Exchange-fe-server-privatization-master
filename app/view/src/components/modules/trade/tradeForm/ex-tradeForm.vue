@@ -500,11 +500,11 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/ex-tradeForm/ex-tradeForm';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/ex-tradeForm/ex-tradeForm.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/ex-tradeForm/ex-tradeForm';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/ex-tradeForm/ex-tradeForm.styl';
 import {
   myStorage, nul, getCoinShowName, fixD, division, cut,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 import tradeInput from './tradeInput.vue';
 import GridTradeInput from './GridTradeInput.vue';
 

@@ -135,8 +135,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder';
-import 'blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/order/coOrder/coOrder.styl';
 
 export default {
   mixins: [mixin],

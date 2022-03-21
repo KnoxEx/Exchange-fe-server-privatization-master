@@ -63,8 +63,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/market/recommend/recommend/recommend';
-import 'blockchain-ui-privatization/PC/common-mixin/market/recommend/recommend/recommend.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/recommend/recommend/recommend';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/recommend/recommend/recommend.styl';
 import Charts from '../charts/china.vue';
 import currencyNotes from './currencyNotes.vue';
 

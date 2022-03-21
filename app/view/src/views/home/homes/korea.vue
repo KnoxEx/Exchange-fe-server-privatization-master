@@ -74,10 +74,10 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/korea/korea';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/korea/korea.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/korea/korea';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/korea/korea.styl';
 
 import Custom from '../custom/korea.vue';
 import Market from '../market/korea.vue';

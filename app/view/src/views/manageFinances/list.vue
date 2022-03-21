@@ -58,8 +58,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/manageFinances/list/list';
-import 'blockchain-ui-privatization/PC/common-mixin/manageFinances/list/list.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/manageFinances/list/list';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/manageFinances/list/list.styl';
 
 export default {
   mixins: [mixin],

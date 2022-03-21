@@ -123,8 +123,8 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
-import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend.styl';
 import Charts from '../charts/china.vue';
 
 export default {

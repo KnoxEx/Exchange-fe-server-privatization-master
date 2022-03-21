@@ -59,8 +59,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAccount/b2cAccount.styl';
 
 export default {
   mixins: [mixin],

@@ -47,9 +47,9 @@
   </section>
 </template>
 <script>
-import b2cMixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAddressMent/b2cAddressMent';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAddressMent/b2cAddressMent.styl';
+import b2cMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAddressMent/b2cAddressMent';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAddressMent/b2cAddressMent.styl';
 
 export default {
   mixins: [b2cMixin, mixin],

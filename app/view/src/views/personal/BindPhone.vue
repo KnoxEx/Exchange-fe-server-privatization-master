@@ -88,8 +88,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/BindPhone/BindPhone';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/BindPhone/BindPhone.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/BindPhone/BindPhone';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/BindPhone/BindPhone.styl';
 
 export default {
   mixins: [mixin],

@@ -24,8 +24,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdrawHis/b2cWithdrawHis';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdrawHis/b2cWithdrawHis.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdrawHis/b2cWithdrawHis';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdrawHis/b2cWithdrawHis.styl';
 
 export default {
   mixins: [mixin],

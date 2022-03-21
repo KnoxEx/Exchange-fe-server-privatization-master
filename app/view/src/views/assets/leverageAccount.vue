@@ -51,8 +51,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/leverageAccount/leverageAccount';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/leverageAccount/leverageAccount.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/leverageAccount/leverageAccount';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/leverageAccount/leverageAccount.styl';
 import leverageTransfer from './leverageTransfer.vue';
 
 export default {

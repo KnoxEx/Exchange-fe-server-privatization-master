@@ -6,7 +6,7 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/index';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/index';
 import China from './homes/china.vue';
 import International from './homes/international.vue';
 import Biki from './homes/biki.vue';

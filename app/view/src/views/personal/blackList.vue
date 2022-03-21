@@ -37,8 +37,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/blackList/blackList';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/blackList/blackList.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/blackList/blackList';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/blackList/blackList.styl';
 
 export default {
   mixins: [mixin],

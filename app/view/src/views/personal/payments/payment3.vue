@@ -29,8 +29,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments3/payments3';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments3/payments3.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments3/payments3';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments3/payments3.styl';
 
 export default {
   mixins: [mixin],

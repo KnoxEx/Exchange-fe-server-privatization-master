@@ -59,8 +59,8 @@
           account: '银行账号',
 *
 * */
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments2/payments2';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments2/payments2.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments2/payments2';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments2/payments2.styl';
 
 export default {
   mixins: [mixin],

@@ -48,10 +48,10 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/international/international';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/international/international.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/international/international';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/international/international.styl';
 
 
 export default {

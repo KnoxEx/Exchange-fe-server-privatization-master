@@ -3,8 +3,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcTrade/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/otcTrade/otcTrade.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcTrade/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcTrade/otcTrade.styl';
 import China from './china.vue';
 import International from './international.vue';
 

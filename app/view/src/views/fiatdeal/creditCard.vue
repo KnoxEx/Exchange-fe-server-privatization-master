@@ -172,8 +172,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/creditCard/creditCard';
-import 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/creditCard/creditCard.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/fiatdeal/creditCard/creditCard';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/fiatdeal/creditCard/creditCard.styl';
 
 export default {
   mixins: [mixin],

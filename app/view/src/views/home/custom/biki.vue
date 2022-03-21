@@ -48,9 +48,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/biki/biki';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/biki/biki.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/biki/biki';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/biki/biki.styl';
 
 export default {
   mixins: [commonMixin, mixin],

@@ -72,8 +72,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/SafetyRecord/SafetyRecord';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/SafetyRecord/SafetyRecord.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/SafetyRecord/SafetyRecord';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/SafetyRecord/SafetyRecord.styl';
 
 export default {
   mixins: [mixin],

@@ -91,8 +91,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/lever/lever';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/lever/lever.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/lever/lever';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/lever/lever.styl';
 
 export default {
   mixins: [mixin],

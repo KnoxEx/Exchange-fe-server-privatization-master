@@ -122,8 +122,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/ChangeEmail/ChangeEmail';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/ChangeEmail/ChangeEmail.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/ChangeEmail/ChangeEmail';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/ChangeEmail/ChangeEmail.styl';
 
 export default {
   mixins: [mixin],

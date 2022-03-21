@@ -43,8 +43,8 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/swiper/bitsg/bitsg';
-import 'blockchain-ui-privatization/PC/common-mixin/home/swiper/bitsg/bitsg.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/bitsg/bitsg';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/swiper/bitsg/bitsg.styl';
 
 export default {
   mixins: [commonMixin],

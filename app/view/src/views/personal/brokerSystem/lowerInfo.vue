@@ -82,8 +82,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfo/lowerInfo';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfo/lowerInfo.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfo/lowerInfo';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lowerInfo/lowerInfo.styl';
 
 export default {
   mixins: [mixin],

@@ -154,8 +154,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/freeStaking/home/home';
-import 'blockchain-ui-privatization/PC/common-mixin/freeStaking/home/home.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/freeStaking/home/home';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/freeStaking/home/home.styl';
 
 export default {
   mixins: [mixin],

@@ -128,8 +128,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/stranger/stranger';
-import 'blockchain-ui-privatization/PC/common-mixin/stranger/stranger.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/stranger/stranger';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/stranger/stranger.styl';
 
 export default {
   mixins: [mixin],

@@ -95,12 +95,12 @@
     </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList';
 import {
   getCoinShowName, formatTime, fixD, myStorage,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 import GridDialog from '../gridDialog/GridDialog.vue';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/orderList/orderList.styl';
 
 
 export default {

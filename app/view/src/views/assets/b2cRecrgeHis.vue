@@ -24,8 +24,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrgeHis/b2cRecrgeHis';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrgeHis/b2cRecrgeHis.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrgeHis/b2cRecrgeHis';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrgeHis/b2cRecrgeHis.styl';
 
 export default {
   mixins: [mixin],

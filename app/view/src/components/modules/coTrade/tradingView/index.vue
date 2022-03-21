@@ -118,8 +118,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradingView/tradingView.styl';
 import Echarts from '../echarts/index.vue';
 
 

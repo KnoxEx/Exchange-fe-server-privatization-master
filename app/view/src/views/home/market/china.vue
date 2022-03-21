@@ -121,8 +121,8 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/market/market';
-import 'blockchain-ui-privatization/PC/common-mixin/home/market/market.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/market/market';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/market/market.styl';
 
 
 export default {

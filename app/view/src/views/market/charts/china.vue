@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/market/charts/charts';
-import 'blockchain-ui-privatization/PC/common-mixin/market/charts/charts.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/charts/charts';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/charts/charts.styl';
 
 export default {
   mixins: [mixin],

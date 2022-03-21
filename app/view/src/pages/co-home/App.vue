@@ -13,9 +13,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/pages/pages';
-import mixin from 'blockchain-ui-privatization/PC/pages/co-home/co-home';
-import 'blockchain-ui-privatization/PC/pages/co-home/co-home.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/pages/pages';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/pages/co-home/co-home';
+import '@knoxexchange/blockchain-ui-privatization/PC/pages/co-home/co-home.styl';
 
 export default {
   mixins: [commonMixin, mixin],

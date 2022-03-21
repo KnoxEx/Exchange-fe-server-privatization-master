@@ -128,10 +128,10 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/korea/korea';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/korea/korea.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/korea/korea';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/korea/korea.styl';
 
 export default {
   mixins: [commonMixin, mixin],

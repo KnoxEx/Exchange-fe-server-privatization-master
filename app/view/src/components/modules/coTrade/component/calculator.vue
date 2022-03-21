@@ -207,8 +207,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/calculator/calculator';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/calculator/calculator.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/calculator/calculator';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/calculator/calculator.styl';
 import formInput from './form-input.vue';
 
 export default {

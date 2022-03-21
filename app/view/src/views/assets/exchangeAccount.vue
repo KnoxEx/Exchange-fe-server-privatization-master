@@ -73,8 +73,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/exchangeAccount/exchangeAccount';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/exchangeAccount/exchangeAccount.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/exchangeAccount/exchangeAccount';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/exchangeAccount/exchangeAccount.styl';
 
 export default {
   mixins: [mixin],

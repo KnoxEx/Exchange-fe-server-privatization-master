@@ -180,11 +180,11 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/innerTransfer/innerTransfer';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/innerTransfer/innerTransfer.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/innerTransfer/innerTransfer';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/innerTransfer/innerTransfer.styl';
 import {
   fixD,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 
 export default {
   mixins: [mixin],

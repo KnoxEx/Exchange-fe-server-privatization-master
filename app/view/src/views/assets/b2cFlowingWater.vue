@@ -28,8 +28,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cFlowingWater/b2cFlowingWater';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cFlowingWater/b2cFlowingWater.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cFlowingWater/b2cFlowingWater';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cFlowingWater/b2cFlowingWater.styl';
 import rechangeTable from './b2cRecrgeHis.vue';
 import withdrawTable from './b2cWithdrawHis.vue';
 

@@ -175,8 +175,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/mobility/mobility';
-import 'blockchain-ui-privatization/PC/common-mixin/mobility/mobility.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/mobility/mobility';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/mobility/mobility.styl';
 
 export default {
   mixins: [mixin],

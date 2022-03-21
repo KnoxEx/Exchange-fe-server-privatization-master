@@ -45,8 +45,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/biki/biki.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/biki/biki.styl';
 import SwiperVue from '../swiper/biki.vue';
 import Market from '../market/international.vue';
 import Recommend from '../recommend/international.vue';

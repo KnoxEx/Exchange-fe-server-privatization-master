@@ -137,8 +137,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/krwRecharge/krwRecharge';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/krwRecharge/krwRecharge.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/krwRecharge/krwRecharge';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/krwRecharge/krwRecharge.styl';
 
 export default {
   mixins: [mixin],

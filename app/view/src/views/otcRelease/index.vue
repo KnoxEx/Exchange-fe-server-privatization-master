@@ -350,8 +350,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcRelease/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/otcRelease/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcRelease/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcRelease/index/index.styl';
 
 export default {
   mixins: [mixin],

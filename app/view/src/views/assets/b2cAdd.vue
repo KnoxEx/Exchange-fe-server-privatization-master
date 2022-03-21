@@ -99,9 +99,9 @@
 </template>
 
 <script>
-import b2cMixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAdd/b2cAdd';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cAdd/b2cAdd.styl';
+import b2cMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAdd/b2cAdd';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cAdd/b2cAdd.styl';
 
 export default {
   mixins: [b2cMixin, mixin],

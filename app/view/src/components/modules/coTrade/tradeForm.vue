@@ -288,9 +288,9 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/tradeForm';
-import calculateVolumeMixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/calculateVolume';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/tradeForm.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/tradeForm';
+import calculateVolumeMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/calculateVolume';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/tradeForm/tradeForm.styl';
 
 
 import formInput from './component/form-input.vue';

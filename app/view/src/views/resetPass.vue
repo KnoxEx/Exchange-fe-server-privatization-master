@@ -138,8 +138,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/resetPass/resetPass';
-import 'blockchain-ui-privatization/PC/common-mixin/resetPass/resetPass.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/resetPass/resetPass';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/resetPass/resetPass.styl';
 // 获取验证码
 export default {
   mixins: [mixin],

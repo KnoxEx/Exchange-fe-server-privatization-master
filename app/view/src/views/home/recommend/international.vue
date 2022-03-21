@@ -59,9 +59,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
 import Charts from '../charts/china.vue';
-import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/international/international.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/international/international.styl';
 
 
 export default {

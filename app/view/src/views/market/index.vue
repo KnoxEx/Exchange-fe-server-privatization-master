@@ -21,8 +21,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/market/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/market/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/index/index.styl';
 import Market from './market/market.vue';
 import Recommend from './recommend/china.vue';
 

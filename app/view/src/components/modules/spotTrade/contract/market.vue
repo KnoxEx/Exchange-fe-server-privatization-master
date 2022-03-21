@@ -131,8 +131,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/market/market';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/market/market.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/market/market';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/market/market.styl';
 
 export default {
   mixins: [mixin],

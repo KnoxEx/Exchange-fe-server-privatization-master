@@ -86,8 +86,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/futuresData/futuresData';
-import 'blockchain-ui-privatization/PC/common-mixin/futuresData/futuresData.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/futuresData/futuresData';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/futuresData/futuresData.styl';
 import echartsKline from '../../components/modules/coTrade/component/echartsKline.vue';
 
 export default {

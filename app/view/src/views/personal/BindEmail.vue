@@ -87,8 +87,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/BindEmail/BindEmail';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/BindEmail/BindEmail.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/BindEmail/BindEmail';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/BindEmail/BindEmail.styl';
 
 export default {
   mixins: [mixin],

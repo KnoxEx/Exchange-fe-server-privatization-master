@@ -4,8 +4,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/broker/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/broker/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/broker/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/broker/index/index.styl';
 import Broker from './broker.vue';
 import Excheif from './excheif.vue';
 

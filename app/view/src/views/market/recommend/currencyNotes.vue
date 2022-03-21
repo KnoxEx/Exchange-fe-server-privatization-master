@@ -46,8 +46,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/market/recommend/currencyNotes/currencyNotes';
-import 'blockchain-ui-privatization/PC/common-mixin/market/recommend/currencyNotes/currencyNotes.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/recommend/currencyNotes/currencyNotes';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/market/recommend/currencyNotes/currencyNotes.styl';
 
 export default {
   mixins: [mixin],

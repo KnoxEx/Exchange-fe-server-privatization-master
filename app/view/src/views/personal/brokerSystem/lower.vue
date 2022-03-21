@@ -20,8 +20,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lower/lower';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lower/lower.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lower/lower';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/brokerSystem/lower/lower.styl';
 import LowerInfo from './lowerInfo.vue';
 import LowerInfoRebate from './lowerInfoRebate.vue';
 

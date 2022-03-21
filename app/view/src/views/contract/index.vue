@@ -39,8 +39,8 @@
   </div>
 </template>
 <script>
-import 'blockchain-ui-privatization/PC/common-mixin/contract/index/index.styl';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/contract/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/contract/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/contract/index/index';
 // 当前币对信息
 import currentSymbol from '@/components/modules/coTrade/currentSymbol.vue';
 // 盘口 && 实时成交

@@ -337,8 +337,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/innovation/view/view';
-import 'blockchain-ui-privatization/PC/common-mixin/innovation/view/view.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/innovation/view/view';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/innovation/view/view.styl';
 
 export default {
   mixins: [mixin],

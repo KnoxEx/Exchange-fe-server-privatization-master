@@ -20,9 +20,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/pages/pages';
-import mixin from 'blockchain-ui-privatization/PC/pages/otc-home/otc-home';
-import 'blockchain-ui-privatization/PC/pages/otc-home/otc-home.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/pages/pages';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/pages/otc-home/otc-home';
+import '@knoxexchange/blockchain-ui-privatization/PC/pages/otc-home/otc-home.styl';
 
 export default {
   mixins: [commonMixin, mixin],

@@ -47,8 +47,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/broker/view/view';
-// import 'blockchain-ui-privatization/PC/common-mixin/broker/view/view.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/broker/view/view';
+// import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/broker/view/view.styl';
 
 export default {
   mixins: [mixin],

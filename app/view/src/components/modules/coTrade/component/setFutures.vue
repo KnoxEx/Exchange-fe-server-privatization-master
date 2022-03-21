@@ -107,8 +107,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/set-futures/set-futures';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/set-futures/set-futures.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/set-futures/set-futures';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/components/set-futures/set-futures.styl';
 
 export default {
   mixins: [mixin],

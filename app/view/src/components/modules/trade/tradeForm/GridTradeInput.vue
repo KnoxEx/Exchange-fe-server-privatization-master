@@ -39,8 +39,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/tradeInput/tradeInput';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/tradeInput/tradeInput.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/tradeInput/tradeInput';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/tradeInput/tradeInput.styl';
 
 export default {
   mixins: [mixin],

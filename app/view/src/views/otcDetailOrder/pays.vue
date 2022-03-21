@@ -51,8 +51,8 @@
 </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/pays/pays';
-import 'blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/pays/pays.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/pays/pays';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/otcDetailOrder/pays/pays.styl';
 
 export default {
   mixins: [mixin],

@@ -34,8 +34,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depositMode/depositMode';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depositMode/depositMode.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depositMode/depositMode';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/coTrade/depositMode/depositMode.styl';
 
 export default {
   mixins: [mixin],

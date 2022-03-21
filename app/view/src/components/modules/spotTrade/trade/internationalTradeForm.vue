@@ -468,11 +468,11 @@
   </div>
 </template>
 <script>
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/internationalTradeForm/internationalTradeForm.styl';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/internationalTradeForm/internationalTradeForm';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/internationalTradeForm/internationalTradeForm.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/tradeForm/internationalTradeForm/internationalTradeForm';
 import {
   myStorage, fixD, division, cut, nul, getCoinShowName,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 import tradeInput from '@/components/modules/trade/tradeForm/tradeInput.vue';
 import GridTradeInput from '@/components/modules/trade/tradeForm/GridTradeInput.vue';
 

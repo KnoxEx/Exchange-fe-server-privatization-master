@@ -30,8 +30,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/mainChain/mainChain';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/mainChain/mainChain.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/mainChain/mainChain';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/mainChain/mainChain.styl';
 
 export default {
   mixins: [mixin],

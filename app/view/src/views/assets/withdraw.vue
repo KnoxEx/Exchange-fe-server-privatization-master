@@ -221,12 +221,12 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/withdraw/withdraw';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/withdraw/withdraw.styl';
-import mainChainMixins from 'blockchain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/withdraw/withdraw';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/withdraw/withdraw.styl';
+import mainChainMixins from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
 import {
   fixD,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 import mainChain from './mainChain.vue';
 import innerTransfer from './innerTransfer.vue';
 

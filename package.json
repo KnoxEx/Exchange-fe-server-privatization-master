@@ -7,11 +7,11 @@
     "declarations": true
   },
   "dependencies": {
-    "blockchain-ui-privatization": "1.1.7",
     "axios": "^0.18.0",
     "babel-core": "^6.26.3",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "@knoxexchange/@knoxexchange/blockchain-ui-privatization": "1.8.0",
     "bowser": "*",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
@@ -52,7 +52,7 @@
     "egg-bin": "^4.11.0",
     "egg-ci": "^1.11.0",
     "egg-mock": "^3.21.0",
-    "eslint": "^5.13.0",
+    "eslint": "^5.16.0",
     "eslint-config-egg": "^7.1.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-vue": "^5.0.0-0",
@@ -95,8 +95,8 @@
     "serve": "npm run formatLocale && vue-cli-service serve",
     "build": "npm run createWebWorkerMap && vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "formatLocale": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js",
-    "createWebWorkerMap": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js"
+    "formatLocale": "node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/format-locale.js",
+    "createWebWorkerMap": "node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/format-locale.js"
   },
   "ci": {
     "version": "10"

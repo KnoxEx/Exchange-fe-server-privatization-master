@@ -31,8 +31,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/index/index';
-import 'blockchain-ui-privatization/PC/common-mixin/fiatdeal/index/index.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/fiatdeal/index/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/fiatdeal/index/index.styl';
 import Center from '@/views/fiatdeal/center.vue';
 
 export default {

@@ -51,8 +51,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/CloseGoogle/CloseGoogle';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/CloseGoogle/CloseGoogle.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/CloseGoogle/CloseGoogle';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/CloseGoogle/CloseGoogle.styl';
 
 export default {
   mixins: [mixin],

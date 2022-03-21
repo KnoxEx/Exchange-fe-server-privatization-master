@@ -156,9 +156,9 @@
   </section>
 </template>
 <script>
-import b2cMixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrge/b2cRecrge';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrge/b2cRecrge.styl';
+import b2cMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrge/b2cRecrge';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cRecrge/b2cRecrge.styl';
 import even from './b2cRecrgeEven.vue';
 import hisTable from './b2cRecrgeHis.vue';
 

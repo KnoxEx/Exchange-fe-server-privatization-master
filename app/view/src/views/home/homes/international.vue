@@ -38,9 +38,9 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/international/international.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/international/international.styl';
 import SwiperVue from '../swiper/international.vue';
 import Market from '../market/international.vue';
 import Recommend from '../recommend/international.vue';

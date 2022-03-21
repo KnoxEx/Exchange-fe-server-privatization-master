@@ -188,9 +188,9 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/index';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/internationalDepth/internationalDepth.styl';
-import { fixD } from 'blockchain-ui-privatization/utils';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/index';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/depath/internationalDepth/internationalDepth.styl';
+import { fixD } from '@knoxexchange/blockchain-ui-privatization/utils';
 import tableList from '@/components/modules/trade/tableList/index.vue';
 // 实时成交
 import newTrade from '@/components/modules/trade/newTrade/index.vue';

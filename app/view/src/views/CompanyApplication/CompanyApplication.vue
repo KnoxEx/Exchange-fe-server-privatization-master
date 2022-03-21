@@ -84,8 +84,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplication/CompanyApplication';
-import 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplication/CompanyApplication.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplication/CompanyApplication';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplication/CompanyApplication.styl';
 
 export default {
   mixins: [mixin],

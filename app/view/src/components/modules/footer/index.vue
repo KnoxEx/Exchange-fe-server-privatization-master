@@ -84,8 +84,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/footer/footer';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/footer/footer.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/footer/footer';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/footer/footer.styl';
 
 export default {
   mixins: [mixin],

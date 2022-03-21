@@ -72,8 +72,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/checkApi/checkApi';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/checkApi/checkApi.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/checkApi/checkApi';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/checkApi/checkApi.styl';
 
 export default {
   mixins: [mixin],

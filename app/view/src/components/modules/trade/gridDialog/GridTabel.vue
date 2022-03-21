@@ -299,7 +299,7 @@
 </template>
 
 <script>
-import { getComplexType } from 'blockchain-ui-privatization/utils';
+import { getComplexType } from '@knoxexchange/blockchain-ui-privatization/utils';
 
 export default {
   name: 'GridTabel',

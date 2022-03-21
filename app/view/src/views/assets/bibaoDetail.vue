@@ -29,8 +29,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/bibaoDetail/bibaoDetail';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/bibaoDetail/bibaoDetail.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/bibaoDetail/bibaoDetail';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/bibaoDetail/bibaoDetail.styl';
 
 export default {
   mixins: [mixin],

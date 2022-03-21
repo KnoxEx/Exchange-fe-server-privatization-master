@@ -180,8 +180,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplicationDetail/CompanyApplicationDetail';
-import 'blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplicationDetail/CompanyApplicationDetail.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplicationDetail/CompanyApplicationDetail';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/CompanyApplication/CompanyApplicationDetail/CompanyApplicationDetail.styl';
 
 export default {
   mixins: [mixin],

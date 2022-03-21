@@ -70,8 +70,8 @@
   </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/modifyApi/modifyApi';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/modifyApi/modifyApi.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/modifyApi/modifyApi';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/modifyApi/modifyApi.styl';
 
 export default {
   mixins: [mixin],

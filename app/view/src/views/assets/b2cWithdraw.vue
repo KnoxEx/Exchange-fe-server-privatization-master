@@ -140,9 +140,9 @@
   </section>
 </template>
 <script>
-import b2cMixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdraw/b2cWithdraw';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdraw/b2cWithdraw.styl';
+import b2cMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cMixin/b2cMixin';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdraw/b2cWithdraw';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/b2cWithdraw/b2cWithdraw.styl';
 import hisTable from './b2cWithdrawHis.vue';
 
 export default {

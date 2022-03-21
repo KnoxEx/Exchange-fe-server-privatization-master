@@ -36,10 +36,10 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/recommend/korea/korea';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/recommend';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/korea/korea';
 import Charts from '../charts/china.vue';
-import 'blockchain-ui-privatization/PC/common-mixin/home/recommend/korea/korea.styl';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/recommend/korea/korea.styl';
 
 export default {
   mixins: [commonMixin, mixin],

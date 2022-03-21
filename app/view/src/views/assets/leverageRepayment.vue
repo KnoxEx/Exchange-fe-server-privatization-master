@@ -57,8 +57,8 @@
   </c-dialog>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/leverageRepayment/leverageRepayment';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/leverageRepayment/leverageRepayment.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/leverageRepayment/leverageRepayment';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/leverageRepayment/leverageRepayment.styl';
 
 export default {
   mixins: [mixin],

@@ -23,8 +23,8 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/innovations/innovations';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/innovations/innovations.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/innovations/innovations';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/innovations/innovations.styl';
 
 export default {
   mixins: [mixin],

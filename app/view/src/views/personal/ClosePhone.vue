@@ -51,8 +51,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/ClosePhone/ClosePhone';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/ClosePhone/ClosePhone.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/ClosePhone/ClosePhone';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/ClosePhone/ClosePhone.styl';
 
 export default {
   mixins: [mixin],

@@ -171,9 +171,9 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/addressMent/addressMent';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/addressMent/addressMent.styl';
-import mainChainMixins from 'blockchain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/addressMent/addressMent';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/addressMent/addressMent.styl';
+import mainChainMixins from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/mainChainMixins';
 
 export default {
   mixins: [mixin, mainChainMixins],

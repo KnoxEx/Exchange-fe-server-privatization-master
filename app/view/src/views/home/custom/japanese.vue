@@ -74,9 +74,9 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/custom/japanese/japanese';
-import 'blockchain-ui-privatization/PC/common-mixin/home/custom/japanese/japanese.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/custom';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/japanese/japanese';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/custom/japanese/japanese.styl';
 
 export default {
   mixins: [commonMixin, mixin],

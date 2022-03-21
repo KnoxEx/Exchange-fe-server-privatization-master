@@ -37,8 +37,8 @@
 </template>
 
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments4/payments4';
-import 'blockchain-ui-privatization/PC/common-mixin/personal/payments/payments4/payments4.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments4/payments4';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/personal/payments/payments4/payments4.styl';
 
 export default {
   mixins: [mixin],

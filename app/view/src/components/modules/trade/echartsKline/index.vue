@@ -21,8 +21,8 @@
     </div>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/modules/trade/echartsKline/echartsKline';
-import 'blockchain-ui-privatization/PC/common-mixin/modules/trade/echartsKline/echartsKline.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/echartsKline/echartsKline';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/modules/trade/echartsKline/echartsKline.styl';
 
 export default {
   mixins: [mixin],

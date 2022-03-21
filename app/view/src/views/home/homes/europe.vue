@@ -63,10 +63,10 @@
 </template>
 
 <script>
-import commonMixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/home';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/home/home/europe/europe';
-import 'blockchain-ui-privatization/PC/common-mixin/home/home/europe/europe.styl';
+import commonMixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/home.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/europe/europe';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/home/home/europe/europe.styl';
 
 import SwiperVue from '../swiper/europe.vue';
 import Recommend from '../recommend/europe.vue';

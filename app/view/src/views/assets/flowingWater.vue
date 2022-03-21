@@ -93,11 +93,11 @@
   </section>
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater';
-import 'blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/assets/flowingWater/flowingWater.styl';
 import {
   formatTime,
-} from 'blockchain-ui-privatization/utils';
+} from '@knoxexchange/blockchain-ui-privatization/utils';
 import innovations from './innovations.vue';
 
 export default {

@@ -53,8 +53,8 @@
 
 </template>
 <script>
-import mixin from 'blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList';
-import 'blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList.styl';
+import mixin from '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList';
+import '@knoxexchange/blockchain-ui-privatization/PC/common-mixin/manageFinances/orderList/orderList.styl';
 
 export default {
   mixins: [mixin],

@@ -1,19 +1,3 @@
-if (!String.prototype.padEnd) {
-  String.prototype.padEnd = function padEnd(targetLength,padString) {
-    targetLength = targetLength>>0; //floor if number or convert non-number to 0;
-    padString = String((typeof padString !== 'undefined' ? padString: ''));
-    if (this.length > targetLength) {
-      return String(this);
-    }
-    else {
-      targetLength = targetLength-this.length;
-      if (targetLength > padString.length) {
-        padString += padString.repeat(targetLength/padString.length); //append to original to ensure we are longer than needed
-      }
-      return String(this) + padString.slice(0,targetLength);
-    }
-  };
-}
 window.previewSkin = null;
 try {
   previewSkin = JSON.parse(window.name).skin;
@@ -26,6 +10,12 @@ try {
   } catch (e) {
     localStorage.clear();
     localStorage.myStorage = '{}';
+  }
+  var localTime = Number(localStorage.localTime);
+  if (!localTime || localTime !== new Date(window.updateDate).getTime() && window.evn !== 'development') {
+    localStorage.clear();
+    localStorage.myStorage = '{}';
+    localStorage.localTime = new Date(window.updateDate).getTime();
   }
   function xssCheck(str, reg) {
     return str ? str.replace(reg || /[&<">'](?:(amp|lt|quot|gt|#39|nbsp|#\d+);)?/g, function (a, b) {
@@ -44,20 +34,19 @@ try {
   }
 
   var setCookie = function(name, value) {
-    var exp = new Date();
+    const exp = new Date();
     exp.setTime(exp.getTime() + 36500 * 24 * 60 * 60 * 1000);
-    var domain = ".".concat(location.host.split('.')[1], ".").concat(location.host.split('.')[2]);
-
+    const domain = `.${location.host.split('.')[1]}.${location.host.split('.')[2]}`;
     if (location.host.split('.')[3]) {
-      document.cookie = "".concat(name, "=").concat(escape(value), ";expires=").concat(exp.toGMTString(), ";path=").concat(escape('/'));
+      document.cookie = `${name}=${escape(value)};expires=${exp.toGMTString()};path=${escape('/')}`;
     } else if (location.host.split('.')[2]) {
-      document.cookie = "".concat(name, "=").concat(escape(value), ";expires=").concat(exp.toGMTString(), ";domain=").concat(domain, ";path=").concat(escape('/'));
+      document.cookie = `${name}=${escape(value)};expires=${exp.toGMTString()};domain=${domain};path=${escape('/')}`;
     } else if (!location.host.split('.')[2] && !location.host.split('.')[1]) {
       // 本地环境存储
-      document.cookie = "".concat(name, "=").concat(escape(value), ";expires=").concat(exp.toGMTString(), ";path=").concat(escape('/'));
+      document.cookie = `${name}=${escape(value)};expires=${exp.toGMTString()};path=${escape('/')}`;
     } else {
       // 当线上读取不到www时
-      document.cookie = "".concat(name, "=").concat(escape(value), ";expires=").concat(exp.toGMTString(), ";domain=.").concat(location.host, ";path=").concat(escape('/'));
+      document.cookie = `${name}=${escape(value)};expires=${exp.toGMTString()};domain=.${location.host};path=${escape('/')}`;
     }
   };
 
@@ -70,7 +59,7 @@ try {
     }
     return null;
   };
-  var lan = window.location.href.match(/[a-z]+_[A-Z]+/) && window.location.href.match(/[a-z]+_[A-Z]+/)[0];
+  var lan = window.location.href.match(/[a-z]+_[A-Z]+/)[0];
   setCookie('lan', lan);
   //函数：获取尺寸
   function findDimensions() {
@@ -115,7 +104,7 @@ try {
   var browser = navigator.userAgent.toLowerCase();
   // IE
   var IE_DEFAULT = 11.0;
-  if (browser.match(/msie ([\d.]+)/) !== null && browserTip) {
+  if (browser.match(/msie ([\d.]+)/) !== null) {
     if (browser.indexOf('msie') > -1) {
       var isIE = parseInt(browser.match(/msie ([\d.]+)/)[1])
       if (isIE < IE_DEFAULT) {
@@ -129,7 +118,7 @@ try {
   }
   // Chrome
   var CHROM_DEFAULT = 49;
-  if (browser.indexOf('chrome') > -1 && browserTip) {
+  if (browser.indexOf('chrome') > -1) {
     var chrome = parseInt(browser.match(/chrome\/([\d.]+)/))
     if (chrome < CHROM_DEFAULT) {
       browserTip.style.display = 'block';
@@ -141,7 +130,7 @@ try {
   }
   // Firefox
   var FIREFOX_DEFAULT = 61;
-  if (browser.indexOf('firefox') > -1 && browserTip) {
+  if (browser.indexOf('firefox') > -1) {
     var Firefox = parseInt(browser.match(/firefox\/([\d.]+)/)[1])
     if (Firefox < FIREFOX_DEFAULT) {
       browserTip.style.display = 'block';
@@ -153,7 +142,7 @@ try {
   }
   // Safari
   var SAFARI_DEFAULT = 11.1;
-  if (browser.indexOf('safari') > -1 && browser.indexOf('chrome') < 0 && browserTip) {
+  if (browser.indexOf('safari') > -1 && browser.indexOf('chrome') < 0) {
     var Safari = parseInt(browser.match(/version\/([\d.]+)/)[1])
     if (Safari < SAFARI_DEFAULT) {
       browserTip.style.display = 'block';
@@ -169,8 +158,6 @@ try {
     var bodyClass = body.className;
     if (className) {
       bodyClass = bodyClass + ' ' + className;
-    }else{
-      bodyClass = lan;
     }
     body.className = bodyClass;
     window.htmlInitLan = true;
@@ -248,7 +235,7 @@ try {
             }
           }
           createStyle(theme);
-          if(theme && theme.othersCss){
+          if(theme.othersCss){
             createCss(theme.othersCss)
           }
         }

@@ -115,19 +115,11 @@
       "fileExtensions": [],
       "whitelist": null,
       "allowArrayField": false,
-      "tmpdir": "/var/folders/gb/c8qvc9dn3vg5v91p0v_lr7hc0000gn/T/egg-multipart-tmp/exchange-vue-server",
+      "tmpdir": "/tmp/egg-multipart-tmp/exchange-vue-server",
       "cleanSchedule": {
         "cron": "0 30 4 * * *",
         "disable": false
       }
-    },
-    "development": {
-      "watchDirs": [],
-      "ignoreDirs": [],
-      "fastReady": false,
-      "reloadOnDebug": true,
-      "overrideDefault": false,
-      "overrideIgnore": false
     },
     "logrotator": {
       "filesRotateByHour": null,
@@ -151,7 +143,7 @@
     },
     "view": {
       "root": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist",
-      "cache": false,
+      "cache": true,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
@@ -163,9 +155,9 @@
       "throwOnUndefined": false,
       "trimBlocks": false,
       "lstripBlocks": false,
-      "cache": false
+      "cache": true
     },
-    "env": "local",
+    "env": "unittest",
     "name": "exchange-vue-server",
     "keys": "<String len: 38>",
     "cookies": {},
@@ -334,19 +326,17 @@
     "logger": {
       "dir": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/logs/exchange-vue-server",
       "encoding": "utf8",
-      "env": "local",
+      "env": "unittest",
       "level": "INFO",
-      "consoleLevel": "INFO",
+      "consoleLevel": "WARN",
       "disableConsoleAfterReady": false,
       "outputJSON": false,
-      "buffer": true,
+      "buffer": false,
       "appLogName": "exchange-vue-server-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {
-        "consoleLevel": "WARN"
-      },
+      "coreLogger": {},
       "allowDebugAtProd": false,
       "type": "agent"
     },
@@ -486,7 +476,7 @@
       "version": "2.9.0"
     },
     "development": {
-      "enable": true,
+      "enable": false,
       "package": "egg-development",
       "name": "development",
       "dependencies": [
@@ -572,6 +562,15 @@
       "from": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/config/plugin.js",
       "path": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view-nunjucks",
       "version": "2.3.0"
+    },
+    "egg-mock": {
+      "enable": true,
+      "path": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-mock",
+      "name": "egg-mock",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "version": "3.26.0"
     }
   }
 }

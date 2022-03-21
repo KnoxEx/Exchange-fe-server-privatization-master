@@ -1,67 +1,12 @@
-2022-01-11 15:42:28,605 INFO 47846 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2022-01-11 15:42:28,605 INFO 47846 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js
-2022-01-11 15:42:28,605 INFO 47846 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2022-01-11 15:42:28,605 INFO 47846 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js
-2022-01-11 15:42:28,605 INFO 47846 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js
-2022-01-11 15:42:28,784 INFO 47846 [Job#16418869487816983394268341931] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js executing by app
-2022-01-11 15:42:28,806 INFO 47846 [Job#16418869487816983394270569521] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js executing by app
-2022-01-11 15:42:28,807 INFO 47846 [Job#16418869487816983394268341931] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js execute succeed, used 23ms. 
-2022-01-11 15:42:28,807 INFO 47846 [Job#16418869487816983394270569521] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js execute succeed, used 1ms. 
-2022-01-11 15:42:28,780 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46051222ms at 2022-01-12 04:30:00.002
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29851219ms at 2022-01-12 00:00:00.000
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29852219ms at 2022-01-12 00:00:01.000
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute immediate
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute immediate
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-01-11 15:52:28.781
-2022-01-11 15:42:28,781 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute after 86400000ms at 2022-01-12 15:42:28.781
-2022-01-11 15:52:28,843 INFO 47846 [Job#16418875488326989394376468072] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js executing by app
-2022-01-11 15:52:28,853 INFO 47846 [Job#16418875488326989394376468072] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js execute succeed, used 7ms. 
-2022-01-11 15:52:28,835 INFO 47845 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-01-11 16:02:28.835
-2022-02-28 20:21:28,066 INFO 2336 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2022-02-28 20:21:28,066 INFO 2336 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js
-2022-02-28 20:21:28,066 INFO 2336 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2022-02-28 20:21:28,066 INFO 2336 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js
-2022-02-28 20:21:28,066 INFO 2336 [egg-schedule]: register schedule /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js
-2022-02-28 20:21:28,283 INFO 2336 [Job#16460508882822506368813300331] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js executing by app
-2022-02-28 20:21:28,301 INFO 2336 [Job#16460508882822506368813300331] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js execute succeed, used 18ms. 
-2022-02-28 20:21:28,301 INFO 2336 [Job#16460508882822506368815568541] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js executing by app
-2022-02-28 20:21:28,301 INFO 2336 [Job#16460508882822506368815568541] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js execute succeed, used 0ms. 
-2022-02-28 20:21:28,281 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 29311721ms at 2022-03-01 04:30:00.002
-2022-02-28 20:21:28,281 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 13111719ms at 2022-03-01 00:00:00.000
-2022-02-28 20:21:28,282 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13112719ms at 2022-03-01 00:00:01.001
-2022-02-28 20:21:28,282 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute immediate
-2022-02-28 20:21:28,282 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute immediate
-2022-02-28 20:21:28,282 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-02-28 20:31:28.282
-2022-02-28 20:21:28,282 INFO 2332 [Timer] /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute after 86400000ms at 2022-03-01 20:21:28.282
-2022-03-20 17:17:59,104 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40320897ms at 2022-03-21 04:30:00.001
-2022-03-20 17:17:59,104 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24120896ms at 2022-03-21 00:00:00.000
-2022-03-20 17:17:59,105 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24121896ms at 2022-03-21 00:00:01.001
-2022-03-20 17:17:59,105 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute immediate
-2022-03-20 17:17:59,105 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute immediate
-2022-03-20 17:17:59,105 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-03-20 17:27:59.105
-2022-03-20 17:17:59,105 INFO 8547 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute after 86400000ms at 2022-03-21 17:17:59.105
-2022-03-20 17:17:59,001 INFO 8549 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2022-03-20 17:17:59,001 INFO 8549 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js
-2022-03-20 17:17:59,001 INFO 8549 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2022-03-20 17:17:59,001 INFO 8549 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js
-2022-03-20 17:17:59,001 INFO 8549 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js
-2022-03-20 17:17:59,105 INFO 8549 [Job#164782187910560204423087501] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js executing by app
-2022-03-20 17:17:59,121 INFO 8549 [Job#164782187910560204423087501] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js execute succeed, used 15ms. 
-2022-03-20 17:17:59,121 INFO 8549 [Job#164782187910560204426846251] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js executing by app
-2022-03-20 17:17:59,121 INFO 8549 [Job#164782187910560204426846251] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js execute succeed, used 0ms. 
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40092096ms at 2022-03-21 04:30:00.003
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23892093ms at 2022-03-21 00:00:00.000
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23893093ms at 2022-03-21 00:00:01.000
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute immediate
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute immediate
-2022-03-20 17:21:47,907 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-03-20 17:31:47.907
-2022-03-20 17:21:47,908 INFO 9608 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute after 86400000ms at 2022-03-21 17:21:47.908
-2022-03-20 17:21:47,528 INFO 9615 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2022-03-20 17:21:47,528 INFO 9615 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js
-2022-03-20 17:21:47,528 INFO 9615 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2022-03-20 17:21:47,528 INFO 9615 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js
-2022-03-20 17:21:47,529 INFO 9615 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js
-2022-03-20 17:21:47,908 INFO 9615 [Job#1647822107907604328466651661] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js executing by app
-2022-03-20 17:21:47,930 INFO 9615 [Job#1647822107907604328466651661] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js execute succeed, used 22ms. 
-2022-03-20 17:21:47,930 INFO 9615 [Job#1647822107907604328470602081] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js executing by app
-2022-03-20 17:21:47,930 INFO 9615 [Job#1647822107907604328470602081] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js execute succeed, used 0ms. 
+2022-03-20 17:30:19,334 INFO 12092 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-03-20 17:30:19,334 INFO 12092 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-03-20 17:30:19,334 INFO 12092 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-03-20 17:30:19,334 INFO 12092 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js
+2022-03-20 17:30:19,334 INFO 12092 [egg-schedule]: register schedule /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js
+2022-03-20 17:30:19,446 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39580556ms at 2022-03-21 04:30:00.002
+2022-03-20 17:30:19,446 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23380554ms at 2022-03-21 00:00:00.000
+2022-03-20 17:30:19,446 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23381554ms at 2022-03-21 00:00:01.000
+2022-03-20 17:30:19,446 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute immediate
+2022-03-20 17:30:19,446 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute immediate
+2022-03-20 17:30:19,447 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js next time will execute after 600000ms at 2022-03-20 17:40:19.447
+2022-03-20 17:30:19,447 INFO 12092 [Timer] /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/remove-log.js next time will execute after 86400000ms at 2022-03-21 17:30:19.447

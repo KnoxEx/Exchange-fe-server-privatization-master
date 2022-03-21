@@ -1,188 +1,22 @@
-2022-01-11 15:42:30,443 ERROR 47846 [-/127.0.0.1/-/1659ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包成功"}
-2022-01-11 15:52:38,854 ERROR 47846 [-/127.0.0.1/-/10008ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod&disable=false] {"message":"github获取默认语言包成功"}
-2022-02-28 20:21:33,888 ERROR 2336 [-/127.0.0.1/-/5604ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:21:39,513 ERROR 2336 [-/127.0.0.1/-/11229ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:21:45,043 ERROR 2336 [-/127.0.0.1/-/16760ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:21:50,559 ERROR 2336 [-/127.0.0.1/-/22276ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:21:56,088 ERROR 2336 [-/127.0.0.1/-/27805ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:01,614 ERROR 2336 [-/127.0.0.1/-/33330ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:07,362 ERROR 2336 [-/127.0.0.1/-/39078ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:12,895 ERROR 2336 [-/127.0.0.1/-/44612ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:18,425 ERROR 2336 [-/127.0.0.1/-/50141ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:24,055 ERROR 2336 [-/127.0.0.1/-/55772ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:29,583 ERROR 2336 [-/127.0.0.1/-/61300ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:35,114 ERROR 2336 [-/127.0.0.1/-/66831ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:40,818 ERROR 2336 [-/127.0.0.1/-/72535ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:46,377 ERROR 2336 [-/127.0.0.1/-/78093ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:52,101 ERROR 2336 [-/127.0.0.1/-/83817ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:22:57,641 ERROR 2336 [-/127.0.0.1/-/89358ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:03,171 ERROR 2336 [-/127.0.0.1/-/94888ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:08,697 ERROR 2336 [-/127.0.0.1/-/100414ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:14,254 ERROR 2336 [-/127.0.0.1/-/105971ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:19,773 ERROR 2336 [-/127.0.0.1/-/111490ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:25,298 ERROR 2336 [-/127.0.0.1/-/117015ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:30,830 ERROR 2336 [-/127.0.0.1/-/122547ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:36,378 ERROR 2336 [-/127.0.0.1/-/128095ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:41,897 ERROR 2336 [-/127.0.0.1/-/133614ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:42,060 ERROR 2336 [-/::1/-/15ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/dist
-    at Map.resolve (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-    at async /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/koa-compress/index.js:43:5
-    at async /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
-    at async xframe (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
-    at async xssProtection (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
-    at async nosniff (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
-    at async noopen (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
-    at async session (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/koa-session/index.js:41:7)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 2336
-hostname: HdeMacBook-Pro.local
-
-2022-02-28 20:23:43,790 ERROR 2336 [-/::1/-/1746ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:43,970 ERROR 2336 [-/::1/-/1926ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:46,710 ERROR 2336 [-/::1/-/7ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from /Users/h/partTimeJob/exchange-fe-server-privatization-master/app/dist
-    at Map.resolve (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-    at async /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/koa-compress/index.js:43:5
-    at async /Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
-    at async xframe (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
-    at async xssProtection (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
-    at async nosniff (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
-    at async noopen (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
-    at async session (/Users/h/partTimeJob/exchange-fe-server-privatization-master/node_modules/koa-session/index.js:41:7)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 2336
-hostname: HdeMacBook-Pro.local
-
-2022-02-28 20:23:46,886 ERROR 2336 [-/::1/-/183ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:47,347 ERROR 2336 [-/::1/-/644ms GET /] [service.publictInfo] {"host":"https://www.tundraswap.com","proxy":"","domain":"http://https://www.tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-02-28 20:23:48,157 ERROR 2336 [-/127.0.0.1/-/139874ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:53,707 ERROR 2336 [-/127.0.0.1/-/145424ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:23:59,240 ERROR 2336 [-/127.0.0.1/-/150956ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:24:04,813 ERROR 2336 [-/127.0.0.1/-/156530ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:24:10,344 ERROR 2336 [-/127.0.0.1/-/162060ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:24:15,975 ERROR 2336 [-/127.0.0.1/-/167692ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:24:21,504 ERROR 2336 [-/127.0.0.1/-/173221ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-02-28 20:24:27,037 ERROR 2336 [-/127.0.0.1/-/178754ms SCHEDULE /__schedule?path=/Users/h/partTimeJob/exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:03,825 ERROR 8549 [-/127.0.0.1/-/41ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from 
+2022-03-20 17:30:19,467 ERROR 12092 [-/127.0.0.1/-/12ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist
     at Map.resolve (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
+    at ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
+    at HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
+    at /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/koa-compress/index.js:43:5
+    at xframe (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at nosniff (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at noopen (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at session (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/koa-session/index.js:41:7)
+    at bodyParser (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/koa-bodyparser/index.js:95:5)
+    at /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/koa-static-cache/index.js:75:31
+    at notfound (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg/app/middleware/notfound.js:5:5)
+    at meta (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg/app/middleware/meta.js:17:5)
 generatedMessage: false
 code: "ERR_ASSERTION"
 actual: undefined
 expected: true
 operator: "=="
-pid: 8549
+pid: 12092
 hostname: safahis-MacBook-Pro-2.local
 
-2022-03-20 17:18:04,157 ERROR 8549 [-/127.0.0.1/-/376ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":502}
-2022-03-20 17:18:04,190 ERROR 8549 [-/127.0.0.1/-/409ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":502}
-2022-03-20 17:18:04,341 ERROR 8549 [-/127.0.0.1/-/5235ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:09,595 ERROR 8549 [-/127.0.0.1/-/10488ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:14,844 ERROR 8549 [-/127.0.0.1/-/15737ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:20,079 ERROR 8549 [-/127.0.0.1/-/20973ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:25,329 ERROR 8549 [-/127.0.0.1/-/26223ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:30,564 ERROR 8549 [-/127.0.0.1/-/31457ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:35,779 ERROR 8549 [-/127.0.0.1/-/36672ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:41,022 ERROR 8549 [-/127.0.0.1/-/41915ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:46,244 ERROR 8549 [-/127.0.0.1/-/47138ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:51,461 ERROR 8549 [-/127.0.0.1/-/52354ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:18:56,701 ERROR 8549 [-/127.0.0.1/-/57595ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:01,947 ERROR 8549 [-/127.0.0.1/-/62840ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:07,189 ERROR 8549 [-/127.0.0.1/-/68083ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:12,439 ERROR 8549 [-/127.0.0.1/-/73332ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:17,694 ERROR 8549 [-/127.0.0.1/-/78587ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:22,936 ERROR 8549 [-/127.0.0.1/-/83828ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:28,205 ERROR 8549 [-/127.0.0.1/-/89099ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:33,433 ERROR 8549 [-/127.0.0.1/-/94324ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:38,669 ERROR 8549 [-/127.0.0.1/-/99563ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:43,901 ERROR 8549 [-/127.0.0.1/-/104795ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:49,126 ERROR 8549 [-/127.0.0.1/-/110020ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:54,375 ERROR 8549 [-/127.0.0.1/-/115268ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:19:59,607 ERROR 8549 [-/127.0.0.1/-/120501ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:04,865 ERROR 8549 [-/127.0.0.1/-/125758ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:10,109 ERROR 8549 [-/127.0.0.1/-/131003ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:15,364 ERROR 8549 [-/127.0.0.1/-/136258ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:20,601 ERROR 8549 [-/127.0.0.1/-/141494ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:25,833 ERROR 8549 [-/127.0.0.1/-/146727ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:31,057 ERROR 8549 [-/127.0.0.1/-/151951ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:36,272 ERROR 8549 [-/127.0.0.1/-/157165ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:41,494 ERROR 8549 [-/127.0.0.1/-/162387ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:20:46,706 ERROR 8549 [-/127.0.0.1/-/167600ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:21:48,162 ERROR 9615 [-/127.0.0.1/-/10ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from 
-    at Map.resolve (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 9615
-hostname: safahis-MacBook-Pro-2.local
-
-2022-03-20 17:21:48,444 ERROR 9615 [-/127.0.0.1/-/291ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:21:48,480 ERROR 9615 [-/127.0.0.1/-/327ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:21:49,982 ERROR 9615 [-/127.0.0.1/-/9ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from 
-    at Map.resolve (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 9615
-hostname: safahis-MacBook-Pro-2.local
-
-2022-03-20 17:21:50,310 ERROR 9615 [-/127.0.0.1/-/336ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:21:50,337 ERROR 9615 [-/127.0.0.1/-/364ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:21:53,197 ERROR 9615 [-/127.0.0.1/-/5288ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:21:58,443 ERROR 9615 [-/127.0.0.1/-/10534ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:03,696 ERROR 9615 [-/127.0.0.1/-/15788ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:08,925 ERROR 9615 [-/127.0.0.1/-/21016ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:14,167 ERROR 9615 [-/127.0.0.1/-/26259ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:19,419 ERROR 9615 [-/127.0.0.1/-/31510ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:24,249 ERROR 9615 [-/127.0.0.1/-/16ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from 
-    at Map.resolve (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 9615
-hostname: safahis-MacBook-Pro-2.local
-
-2022-03-20 17:22:24,643 ERROR 9615 [-/127.0.0.1/-/36735ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:29,223 ERROR 9615 [-/127.0.0.1/-/4991ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:22:29,224 ERROR 9615 [-/127.0.0.1/-/4993ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:22:29,891 ERROR 9615 [-/127.0.0.1/-/41983ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:34,359 ERROR 9615 [-/127.0.0.1/-/9ms GET /] nodejs.AssertionError: Can't find ../dist/undefined-index.html from 
-    at Map.resolve (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/view_manager.js:74:5)
-    at async ContextView.[contextView#render] (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/lib/context_view.js:50:22)
-    at async HomeController.index (/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/controller/home.js:162:5)
-generatedMessage: false
-code: "ERR_ASSERTION"
-actual: undefined
-expected: true
-operator: "=="
-pid: 9615
-hostname: safahis-MacBook-Pro-2.local
-
-2022-03-20 17:22:35,135 ERROR 9615 [-/127.0.0.1/-/47227ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}
-2022-03-20 17:22:37,498 ERROR 9615 [-/127.0.0.1/-/3148ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:22:37,815 ERROR 9615 [-/127.0.0.1/-/3466ms GET /] [service.publictInfo] {"host":"https://tundraswap.com","proxy":"","domain":"http://https://tundraswap.com","message":"publicInfo报错 status非200","key":"res.status","data":404}
-2022-03-20 17:22:40,379 ERROR 9615 [-/127.0.0.1/-/52471ms SCHEDULE /__schedule?path=/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/schedule/getDefault-locales.js&interval=600s&immediate=true&type=all&env=prod] {"message":"github获取默认语言包失败，暂停定时任务，5秒后执行重新获取"}

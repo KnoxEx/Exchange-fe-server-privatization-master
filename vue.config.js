@@ -151,10 +151,10 @@ module.exports = {
         // public: "rd4www.chaindown.com:80",
         proxy: {
           fePublicInfo: {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
           },
           '/fe-ex-api': {
-            target: 'https://www.tundraswap.com/fe-ex-api',
+            target: 'https://tundraswap.com/fe-ex-api',
             pathRewrite: {
               '^/fe-ex-api': '',
             },
@@ -164,19 +164,19 @@ module.exports = {
             // },
           },
           'fe-quant-api': {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
             // pathRewrite: {
             //   '^/fe-quant-api': '',
             // },
           },
           '/fe-financing-api': {
-            target: 'https://www.tundraswap.com/financing/',
+            target: 'https://tundraswap.com/financing/',
             pathRewrite: {
               '^/fe-financing-api': '',
             },
           },
           '/fe-otc-api': {
-            target: 'https://www.tundraswap.com/fe-otc-api',
+            target: 'https://tundraswap.com/fe-otc-api',
             pathRewrite: {
               '^/fe-otc-api': '',
             },
@@ -186,7 +186,7 @@ module.exports = {
             },
           },
           '/fe-agent-api': {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
             pathRewrite: {
                 '^/fe-agent-api': '',
             },
@@ -198,7 +198,7 @@ module.exports = {
             }
           },
           '/fe-increment-api': {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
             // changeOrigin: true, // 将 host 修改为 target
             // pathRewrite: {
             //     '^/fe-ex-api': '',
@@ -216,10 +216,10 @@ module.exports = {
             },
           },
           '/getLocale': {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
           },
           '/fe-hashrate-api': {
-            target: 'https://www.tundraswap.com/',
+            target: 'https://tundraswap.com/',
             changeOrigin: true, // 将 host 修改为 target
             headers: {
               'x-forwarded-host': 'webapi.xfnh.com',

@@ -18,3 +18,13 @@ res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"ab
 pid: 12092
 hostname: safahis-MacBook-Pro-2.local
 
+2022-03-20 18:18:53,401 INFO 26503 [egg:logger] init all loggers with options: {"dir":"/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/logs/exchange-vue-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"exchange-vue-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2022-03-20 18:18:53,409 INFO 26503 [egg:core] dump config after load, 4ms
+2022-03-20 18:18:53,461 INFO 26503 [egg-watcher] Start watching: ["/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app","/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/config","/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/mocks","/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/mocks_proxy","/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app.js"]
+2022-03-20 18:18:53,461 INFO 26503 [egg-watcher] Start watching: "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app"
+2022-03-20 18:18:53,462 INFO 26503 [egg-watcher] Start watching: "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/config"
+2022-03-20 18:18:53,462 INFO 26503 [egg-watcher] Start watching: "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/mocks"
+2022-03-20 18:18:53,462 INFO 26503 [egg-watcher] Start watching: "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/mocks_proxy"
+2022-03-20 18:18:53,462 INFO 26503 [egg-watcher] Start watching: "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app.js"
+2022-03-20 18:18:53,462 INFO 26503 [egg-watcher:agent] watcher start success
+2022-03-20 18:18:53,538 INFO 26503 [egg:core] dump config after ready, 11ms

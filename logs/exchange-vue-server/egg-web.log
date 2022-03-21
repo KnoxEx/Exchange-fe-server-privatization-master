@@ -27,3 +27,16 @@ res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"ab
 pid: 12092
 hostname: safahis-MacBook-Pro-2.local
 
+2022-03-20 18:18:54,241 INFO 26506 [egg:logger] init all loggers with options: {"dir":"/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/logs/exchange-vue-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"exchange-vue-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2022-03-20 18:18:54,264 INFO 26506 [egg-multipart] stream mode enable
+2022-03-20 18:18:54,334 INFO 26506 [egg-static] starting static serve / -> /Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist
+2022-03-20 18:18:54,336 INFO 26506 [egg-security] use methodnoallow middleware
+2022-03-20 18:18:54,337 INFO 26506 [egg-security] use noopen middleware
+2022-03-20 18:18:54,337 INFO 26506 [egg-security] use nosniff middleware
+2022-03-20 18:18:54,338 INFO 26506 [egg-security] use xssProtection middleware
+2022-03-20 18:18:54,338 INFO 26506 [egg-security] use xframe middleware
+2022-03-20 18:18:54,338 INFO 26506 [egg-security] use dta middleware
+2022-03-20 18:18:54,338 INFO 26506 [egg-security] compose 6 middlewares into one security middleware
+2022-03-20 18:18:54,348 INFO 26506 [egg:core] dump config after load, 5ms
+2022-03-20 18:18:54,357 INFO 26506 [egg-watcher:application] watcher start success
+2022-03-20 18:18:54,363 INFO 26506 [egg:core] dump config after ready, 5ms

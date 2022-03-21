@@ -115,11 +115,19 @@
       "fileExtensions": [],
       "whitelist": null,
       "allowArrayField": false,
-      "tmpdir": "/tmp/egg-multipart-tmp/exchange-vue-server",
+      "tmpdir": "/var/folders/gb/c8qvc9dn3vg5v91p0v_lr7hc0000gn/T/egg-multipart-tmp/exchange-vue-server",
       "cleanSchedule": {
         "cron": "0 30 4 * * *",
         "disable": false
       }
+    },
+    "development": {
+      "watchDirs": [],
+      "ignoreDirs": [],
+      "fastReady": false,
+      "reloadOnDebug": true,
+      "overrideDefault": false,
+      "overrideIgnore": false
     },
     "logrotator": {
       "filesRotateByHour": null,
@@ -143,7 +151,7 @@
     },
     "view": {
       "root": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist",
-      "cache": true,
+      "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
@@ -155,9 +163,9 @@
       "throwOnUndefined": false,
       "trimBlocks": false,
       "lstripBlocks": false,
-      "cache": true
+      "cache": false
     },
-    "env": "unittest",
+    "env": "local",
     "name": "exchange-vue-server",
     "keys": "<String len: 38>",
     "cookies": {},
@@ -176,11 +184,11 @@
         "declarations": true
       },
       "dependencies": {
-        "blockchain-ui-privatization": "1.1.7",
         "axios": "^0.18.0",
         "babel-core": "^6.26.3",
         "babel-plugin-transform-remove-console": "^6.9.4",
         "babel-plugin-transform-remove-strict-mode": "0.0.2",
+        "@knoxexchange/blockchain-ui-privatization": "1.8.0",
         "bowser": "*",
         "child_process": "^1.0.2",
         "crypto": "^1.0.1",
@@ -221,7 +229,7 @@
         "egg-bin": "^4.11.0",
         "egg-ci": "^1.11.0",
         "egg-mock": "^3.21.0",
-        "eslint": "^5.13.0",
+        "eslint": "^5.16.0",
         "eslint-config-egg": "^7.1.0",
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-vue": "^5.0.0-0",
@@ -264,8 +272,8 @@
         "serve": "npm run formatLocale && vue-cli-service serve",
         "build": "npm run createWebWorkerMap && vue-cli-service build",
         "lint": "vue-cli-service lint",
-        "formatLocale": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js",
-        "createWebWorkerMap": "node ./node_modules/blockchain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/blockchain-ui-privatization/webpack-plugin/format-locale.js"
+        "formatLocale": "node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/remove-webWorkerHash.js && node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/format-locale.js",
+        "createWebWorkerMap": "node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/create-webWorker.js && node ./node_modules/@knoxexchange/blockchain-ui-privatization/webpack-plugin/format-locale.js"
       },
       "ci": {
         "version": "10"
@@ -326,17 +334,19 @@
     "logger": {
       "dir": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/logs/exchange-vue-server",
       "encoding": "utf8",
-      "env": "unittest",
+      "env": "local",
       "level": "INFO",
-      "consoleLevel": "WARN",
+      "consoleLevel": "INFO",
       "disableConsoleAfterReady": false,
       "outputJSON": false,
-      "buffer": false,
+      "buffer": true,
       "appLogName": "exchange-vue-server-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {},
+      "coreLogger": {
+        "consoleLevel": "WARN"
+      },
       "allowDebugAtProd": false,
       "type": "agent"
     },
@@ -476,7 +486,7 @@
       "version": "2.9.0"
     },
     "development": {
-      "enable": false,
+      "enable": true,
       "package": "egg-development",
       "name": "development",
       "dependencies": [
@@ -562,15 +572,6 @@
       "from": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/config/plugin.js",
       "path": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view-nunjucks",
       "version": "2.3.0"
-    },
-    "egg-mock": {
-      "enable": true,
-      "path": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-mock",
-      "name": "egg-mock",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [],
-      "version": "3.26.0"
     }
   }
 }

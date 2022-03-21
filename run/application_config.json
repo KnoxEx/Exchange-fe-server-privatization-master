@@ -102,6 +102,7 @@
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-watcher/config/locales",
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-schedule/config/locales",
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-multipart/config/locales",
+        "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-development/config/locales",
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-logrotator/config/locales",
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-static/config/locales",
         "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-view/config/locales",
@@ -116,7 +117,7 @@
       "functionName": "__"
     },
     "watcher": {
-      "type": "default",
+      "type": "development",
       "eventSources": {
         "default": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-watcher/lib/event-sources/default",
         "development": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/node_modules/egg-watcher/lib/event-sources/development"
@@ -149,6 +150,14 @@
         "disable": false
       }
     },
+    "development": {
+      "watchDirs": [],
+      "ignoreDirs": [],
+      "fastReady": false,
+      "reloadOnDebug": true,
+      "overrideDefault": false,
+      "overrideIgnore": false
+    },
     "logrotator": {
       "filesRotateByHour": null,
       "hourDelimiter": "-",
@@ -163,17 +172,15 @@
       "dir": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist",
       "dynamic": true,
       "preload": false,
-      "buffer": true,
+      "buffer": false,
       "maxFiles": 1000,
       "gzip": true,
       "maxAge": 31536000,
       "usePrecompiledGzip": true
     },
     "view": {
-      "root": [
-        "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/dist"
-      ],
-      "cache": true,
+      "root": [],
+      "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
@@ -185,9 +192,9 @@
       "throwOnUndefined": false,
       "trimBlocks": false,
       "lstripBlocks": false,
-      "cache": true
+      "cache": false
     },
-    "env": "prod",
+    "env": "local",
     "name": "exchange-vue-server",
     "keys": "<String len: 38>",
     "cookies": {},
@@ -354,19 +361,21 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/safahi/logs/exchange-vue-server",
+      "dir": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/logs/exchange-vue-server",
       "encoding": "utf8",
-      "env": "prod",
+      "env": "local",
       "level": "INFO",
       "consoleLevel": "INFO",
-      "disableConsoleAfterReady": true,
+      "disableConsoleAfterReady": false,
       "outputJSON": false,
       "buffer": true,
       "appLogName": "exchange-vue-server-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {},
+      "coreLogger": {
+        "consoleLevel": "WARN"
+      },
       "allowDebugAtProd": false,
       "type": "application"
     },
@@ -403,7 +412,8 @@
       "overrideMethod",
       "session",
       "securities",
-      "i18n"
+      "i18n",
+      "eggLoaderTrace"
     ],
     "workerStartTimeout": 600000,
     "serverTimeout": null,
@@ -428,9 +438,9 @@
       "threshold": 1024
     },
     "devUrlProxy": {
-      "ex": "https://www.tundraswap.com",
-      "otc": "https://www.tundraswap.com",
-      "co": "https://www.tundraswap.com"
+      "ex": "https://tundraswap.com",
+      "otc": "https://tundraswap.com",
+      "co": "https://tundraswap.com"
     },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
@@ -447,9 +457,9 @@
       },
       "checkFile": "<Function checkFile>"
     },
-    "staticPath": "/Users/safahi/Documents/GitHub/exchange-fe-server-static/publicInfo/",
-    "skinsPath": "/Users/safahi/Documents/GitHub/exchange-fe-server-static/skinData/",
-    "localesPath": "/Users/safahi/Documents/GitHub/exchange-fe-server-static/Locales/",
+    "staticPath": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/public/serverData/",
+    "skinsPath": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/public/siknData/",
+    "localesPath": "/Users/safahi/Documents/GitHub/Exchange-fe-server-privatization-master/app/public/Locales/",
     "configDomain": {},
     "staticDomain": "",
     "domainArr": {}
@@ -528,7 +538,7 @@
       "version": "2.9.0"
     },
     "development": {
-      "enable": false,
+      "enable": true,
       "package": "egg-development",
       "name": "development",
       "dependencies": [

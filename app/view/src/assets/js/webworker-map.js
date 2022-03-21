@@ -1,1 +1,1 @@
-export default {"depthData":"depthData.js","echartsData":"echartsData.js","futureWebsocket":"futureWebsocket.js","marketData":"marketData.js","tradeData":"tradeData.js","common-method":"common-method.js","websocket":"websocket.js"}
+export default {"depthData":"depthData.js","echartsData":"echartsData.js","marketData":"marketData.js","tradeData":"tradeData.js","common-method":"common-method.js","websocket":"websocket.js"}
